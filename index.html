@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My News</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #242736;
+      --border: #2e3148;
+      --accent: #6c8ef7;
+      --accent2: #a78bfa;
+      --text: #e2e8f0;
+      --text-muted: #8892a4;
+      --tag-bg: #1e2a4a;
+      --tag-text: #93b4ff;
+      --card-hover: #1f2335;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ===== HEADER ===== */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      height: 56px;
+    }
+
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      white-space: nowrap;
+      text-decoration: none;
+    }
+
+    .tab-nav {
+      display: flex;
+      gap: 4px;
+      flex: 1;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tab-nav::-webkit-scrollbar { display: none; }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 14px;
+      padding: 6px 14px;
+      border-radius: 20px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all .15s;
+    }
+    .tab-btn:hover { background: var(--surface2); color: var(--text); }
+    .tab-btn.active { background: var(--accent); color: #fff; font-weight: 600; }
+
+    .header-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .icon-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      width: 34px; height: 34px;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px;
+      transition: all .15s;
+    }
+    .icon-btn:hover { background: var(--surface); color: var(--text); }
+
+    /* ===== MAIN ===== */
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 24px 24px 60px;
+    }
+
+    .status-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .last-updated {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: #22c55e;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* ===== CARDS ===== */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+      cursor: pointer;
+      transition: all .15s;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      text-decoration: none;
+      color: inherit;
+    }
+    .card:hover {
+      background: var(--card-hover);
+      border-color: var(--accent);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(108,142,247,.12);
+    }
+
+    .card-source {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .card-source .tag {
+      background: var(--tag-bg);
+      color: var(--tag-text);
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 11px;
+      text-transform: none;
+      letter-spacing: 0;
+    }
+
+    .card-title {
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 1.5;
+      color: var(--text);
+    }
+
+    .card-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-top: auto;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    /* ===== EMPTY / LOADING ===== */
+    .state-box {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+    .state-box .icon { font-size: 48px; margin-bottom: 12px; }
+    .state-box p { font-size: 15px; line-height: 1.7; }
+
+    /* ===== SETTINGS MODAL ===== */
+    .modal-overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,.6);
+      backdrop-filter: blur(4px);
+      z-index: 200;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-overlay.open { display: flex; }
+
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      width: 100%;
+      max-width: 520px;
+      max-height: 90vh;
+      overflow-y: auto;
+    }
+
+    .modal h2 {
+      font-size: 18px;
+      margin-bottom: 20px;
+      color: var(--text);
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      font-weight: 500;
+    }
+
+    .form-group input,
+    .form-group select {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      padding: 8px 12px;
+      font-size: 14px;
+      outline: none;
+      transition: border-color .15s;
+    }
+    .form-group input:focus,
+    .form-group select:focus { border-color: var(--accent); }
+
+    .themes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .theme-row {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .theme-row input { flex: 1; }
+
+    .btn-sm {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      border-radius: 6px;
+      padding: 6px 10px;
+      cursor: pointer;
+      font-size: 13px;
+      transition: all .15s;
+      white-space: nowrap;
+    }
+    .btn-sm:hover { color: var(--text); }
+    .btn-sm.danger:hover { color: #f87171; border-color: #f87171; }
+
+    .btn-primary {
+      background: var(--accent);
+      border: none;
+      color: #fff;
+      border-radius: 8px;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      transition: opacity .15s;
+    }
+    .btn-primary:hover { opacity: .85; }
+
+    .modal-footer {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    .notice {
+      background: var(--tag-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 12px;
+      color: var(--tag-text);
+      line-height: 1.6;
+      margin-top: 16px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">📰 My News</a>
+    <nav class="tab-nav" id="tabNav"></nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="refreshBtn" title="再読み込み">↻</button>
+      <button class="icon-btn" id="settingsBtn" title="設定">⚙</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="status-bar">
+    <div class="last-updated">
+      <span class="dot"></span>
+      <span id="lastUpdatedText">読み込み中...</span>
+    </div>
+    <span id="articleCount"></span>
+  </div>
+  <div id="cardsContainer"></div>
+</main>
+
+<!-- Settings Modal -->
+<div class="modal-overlay" id="settingsModal">
+  <div class="modal">
+    <h2>⚙ 設定</h2>
+
+    <div class="form-group">
+      <label>サイトタイトル</label>
+      <input type="text" id="cfgTitle" placeholder="My News">
+    </div>
+
+    <div class="form-group">
+      <label>テーマ一覧（n8nワークフローのキーワードと合わせること）</label>
+      <div class="themes-list" id="themesList"></div>
+      <button class="btn-sm" id="addThemeBtn" style="margin-top:8px">＋ テーマを追加</button>
+    </div>
+
+    <div class="notice">
+      💡 テーマ名を変更した場合は、n8n ワークフロー内の <strong>テーマキーワード</strong> も同じ名前に更新してください。
+    </div>
+
+    <div class="modal-footer">
+      <button class="btn-sm" id="closeSettingsBtn">キャンセル</button>
+      <button class="btn-primary" id="saveSettingsBtn">保存</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ============================================================
+// CONFIG — news.json のパス（GitHub Pages では相対パスでOK）
+// ============================================================
+const NEWS_JSON_PATH = './data/news.json';
+
+// ============================================================
+// DEFAULT SETTINGS（初回起動時のみ使用）
+// ============================================================
+const DEFAULT_CONFIG = {
+  title: 'My News',
+  themes: ['AI・テクノロジー', 'ゲーム・エンタメ', 'ビジネス・経済']
+};
+
+// ============================================================
+// STATE
+// ============================================================
+let config = loadConfig();
+let newsData = null;
+let currentTheme = null;
+
+function loadConfig() {
+  try {
+    const saved = localStorage.getItem('myNewsConfig');
+    return saved ? JSON.parse(saved) : { ...DEFAULT_CONFIG };
+  } catch {
+    return { ...DEFAULT_CONFIG };
+  }
+}
+
+function saveConfig() {
+  localStorage.setItem('myNewsConfig', JSON.stringify(config));
+}
+
+// ============================================================
+// RENDER TABS
+// ============================================================
+function renderTabs() {
+  const nav = document.getElementById('tabNav');
+  nav.innerHTML = '';
+
+  const allBtn = document.createElement('button');
+  allBtn.className = 'tab-btn' + (currentTheme === null ? ' active' : '');
+  allBtn.textContent = 'すべて';
+  allBtn.onclick = () => { currentTheme = null; renderTabs(); renderCards(); };
+  nav.appendChild(allBtn);
+
+  config.themes.forEach(theme => {
+    const btn = document.createElement('button');
+    btn.className = 'tab-btn' + (currentTheme === theme ? ' active' : '');
+    btn.textContent = theme;
+    btn.onclick = () => { currentTheme = theme; renderTabs(); renderCards(); };
+    nav.appendChild(btn);
+  });
+}
+
+// ============================================================
+// RENDER CARDS
+// ============================================================
+function renderCards() {
+  const container = document.getElementById('cardsContainer');
+
+  if (!newsData) {
+    container.innerHTML = `
+      <div class="state-box">
+        <div class="icon">📡</div>
+        <p>ニュースデータがまだありません。<br>n8n ワークフローを実行してください。</p>
+      </div>`;
+    return;
+  }
+
+  // Collect articles
+  let articles = [];
+  if (currentTheme === null) {
+    Object.values(newsData.themes || {}).forEach(t => {
+      (t.articles || []).forEach(a => articles.push({ ...a, _theme: t.name }));
+    });
+  } else {
+    const themeKey = Object.keys(newsData.themes || {}).find(
+      k => newsData.themes[k].name === currentTheme
+    );
+    if (themeKey) {
+      articles = (newsData.themes[themeKey].articles || []).map(
+        a => ({ ...a, _theme: currentTheme })
+      );
+    }
+  }
+
+  document.getElementById('articleCount').textContent =
+    articles.length ? `${articles.length} 件` : '';
+
+  if (articles.length === 0) {
+    container.innerHTML = `
+      <div class="state-box">
+        <div class="icon">🔍</div>
+        <p>このテーマの記事はありません。</p>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = `<div class="cards-grid">${articles.map(articleCard).join('')}</div>`;
+}
+
+function articleCard(a) {
+  const date = a.publishedAt
+    ? new Date(a.publishedAt).toLocaleString('ja-JP', { month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' })
+    : '';
+  const imgHtml = a.image
+    ? `<img class="card-img" src="${escHtml(a.image)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+    : '';
+  return `
+    <a class="card" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
+      ${imgHtml}
+      <div class="card-source">
+        ${escHtml(a.source || '')}
+        <span class="tag">${escHtml(a._theme)}</span>
+      </div>
+      <div class="card-title">${escHtml(a.title)}</div>
+      ${a.description ? `<div class="card-desc">${escHtml(a.description)}</div>` : ''}
+      <div class="card-footer">
+        <span>${date}</span>
+      </div>
+    </a>`;
+}
+
+function escHtml(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ============================================================
+// LOAD NEWS JSON
+// ============================================================
+async function loadNews() {
+  document.getElementById('lastUpdatedText').textContent = '読み込み中...';
+  try {
+    const res = await fetch(NEWS_JSON_PATH + '?t=' + Date.now());
+    if (!res.ok) throw new Error('not found');
+    newsData = await res.json();
+
+    const updated = newsData.updatedAt
+      ? new Date(newsData.updatedAt).toLocaleString('ja-JP')
+      : '不明';
+    document.getElementById('lastUpdatedText').textContent = `最終更新: ${updated}`;
+  } catch {
+    newsData = null;
+    document.getElementById('lastUpdatedText').textContent = 'データ未取得';
+  }
+  renderCards();
+}
+
+// ============================================================
+// SETTINGS UI
+// ============================================================
+function openSettings() {
+  document.getElementById('cfgTitle').value = config.title;
+  renderThemesList();
+  document.getElementById('settingsModal').classList.add('open');
+}
+
+function renderThemesList() {
+  const list = document.getElementById('themesList');
+  list.innerHTML = config.themes.map((t, i) => `
+    <div class="theme-row">
+      <input type="text" value="${escHtml(t)}" data-idx="${i}" class="theme-input">
+      <button class="btn-sm danger" data-del="${i}">削除</button>
+    </div>`).join('');
+
+  list.querySelectorAll('.theme-input').forEach(inp => {
+    inp.oninput = () => {
+      config.themes[+inp.dataset.idx] = inp.value;
+    };
+  });
+  list.querySelectorAll('[data-del]').forEach(btn => {
+    btn.onclick = () => {
+      config.themes.splice(+btn.dataset.del, 1);
+      renderThemesList();
+    };
+  });
+}
+
+document.getElementById('addThemeBtn').onclick = () => {
+  config.themes.push('新しいテーマ');
+  renderThemesList();
+};
+
+document.getElementById('saveSettingsBtn').onclick = () => {
+  config.title = document.getElementById('cfgTitle').value || 'My News';
+  document.querySelector('.logo').textContent = '📰 ' + config.title;
+  document.title = config.title;
+  if (currentTheme && !config.themes.includes(currentTheme)) currentTheme = null;
+  saveConfig();
+  document.getElementById('settingsModal').classList.remove('open');
+  renderTabs();
+  renderCards();
+};
+
+document.getElementById('closeSettingsBtn').onclick = () => {
+  config = loadConfig(); // discard changes
+  document.getElementById('settingsModal').classList.remove('open');
+};
+
+document.getElementById('settingsModal').onclick = (e) => {
+  if (e.target === document.getElementById('settingsModal')) {
+    config = loadConfig();
+    document.getElementById('settingsModal').classList.remove('open');
+  }
+};
+
+document.getElementById('settingsBtn').onclick = openSettings;
+document.getElementById('refreshBtn').onclick = loadNews;
+
+// ============================================================
+// INIT
+// ============================================================
+document.querySelector('.logo').textContent = '📰 ' + config.title;
+document.title = config.title;
+renderTabs();
+loadNews();
+</script>
+</body>
+</html>
