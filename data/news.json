@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-06-13T03:27:59.170Z",
+  "themes": {
+    "ai_tech": {
+      "name": "AI・テクノロジー",
+      "articles": []
+    },
+    "game_entertainment": {
+      "name": "ゲーム・エンタメ",
+      "articles": [
+        {
+          "title": "宮田俊哉、セリフ丸暗記の少年がアニポケ声優に 人生変えた『ポケットモンスター』への30年間止まらぬ愛【インタビュー】",
+          "description": "Kis-My-Ft2の宮田俊哉が、19日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　毎週金曜　後6：55）第141話「READY GO！ユナイトバトル！！」にゲスト声優として出演する。幼少期にはアニポケのセリフを丸暗記し…",
+          "url": "https://www.sankei.com/article/20260612-XOFYADDCKZOJNOU7HIWB5ZEEYI/",
+          "image": "https://www.sankei.com/resizer/v2/FEDIXLPFNVMMFCAUPGA3HBEGZU.jpg?auth=a8fefab66b7a9143abe36a3f464066c4b1b8fd0c6971ce2a509acd4cdf80423a&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-06-12T11:01:09Z"
+        },
+        {
+          "title": "車×美少女のアニメ調APRGレースゲーム『Project GT』クラファン達成―開発コアメンバーはmiHoYo、NetEaseなど出身の実力者とのこと",
+          "description": "miHoYo、Tencent、NetEaseといったスタジオ出身のメンバーが開発する、車×美少女×ARPGを融合させたアニメ調レースゲーム！",
+          "url": "https://www.inside-games.jp/article/2026/06/11/182825.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1741370.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-06-11T10:30:03Z"
+        },
+        {
+          "title": "長年のファンならニヤつきっぱなし!?『レゴ バットマン：レガシー・オブ・ザ・ダークナイト』はバットマン90年の歴史と冒険を凝縮させた超快作バットマンゲームだ【PR】",
+          "description": "コミック、実写映画、TVアニメのネタが盛りだくさん！愛いっぱい、冒険いっぱい、歴代作のパロディいっぱいの決定版！",
+          "url": "https://jp.ign.com/lego-batman-legacy-of-the-dark-knight/83466/90pr",
+          "image": "https://sm.ign.com/t/ign_jp/screenshot/default/01_r49w.1200.jpg",
+          "source": "IGN JAPAN",
+          "publishedAt": "2026-06-09T04:00:00Z"
+        },
+        {
+          "title": "『ウィザードリィ』の生みの親は今、高校生のメンターをしている―「75周年も元気でいたい」ロバート・ウッドヘッド氏が45周年に語る、新世代への信頼【特別インタビュー】",
+          "description": "あの人の今。ゲーム開発やプログラム、そしてアニメからも大きく離れ、新世代の才能を育てることに喜びを感じているのだそう。",
+          "url": "https://www.inside-games.jp/article/2026/06/05/182455.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1737974.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-06-05T03:20:02Z"
+        },
+        {
+          "title": "「パイの実」史上初のアニメ化 『ドラえもん』など手掛けるシンエイ動画と豪華クリエイター陣がタッグ",
+          "description": "ロッテ「パイの実」のアニメ化が決定し1日、都内で発表会が行われた。同作で声優を務める小林由美子、引坂理絵のほか、ゲストとしてももいろクローバーZの百田夏菜子、お笑いコンビ・マユリカ（中谷、阪本）が登場した。",
+          "url": "https://www.sankei.com/article/20260601-OWX3TBKTXFI4TEMKVPKGO5ZXHA/",
+          "image": "https://www.sankei.com/resizer/v2/C2HABX4LBBI4VMRA2INGZEWEXE.jpg?auth=116d8cb6b30d001f1935487f5bc66f31ac66f525be5220a1ae96a0af69941983&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-06-01T03:31:08Z"
+        },
+        {
+          "title": "Ft2宮田俊哉、『ポケモン』ゲスト声優で出演へ リコたちと戦うユナイトバトルのチームリーダー役【コメント全文】",
+          "description": "6人組グループ・Kis-My-Ft2の宮田俊哉が、6月19日放送のテレビアニメ『ポケットモンスター』（毎週金曜　午後6：55）第141話「READY GO！ユナイトバトル!!」にゲスト声優として出演することが発表された。『ポケモンユナイト…",
+          "url": "https://www.sankei.com/article/20260527-S5UB7KBQAVJZDPJRIF6EZX7D3M/",
+          "image": "https://www.sankei.com/resizer/v2/QVITWELCDBP6JMIHYCUNTU4WG4.jpg?auth=70b32f47db9f732d684185cd3597092ce54f49a51f8b919f9a233027ff11842f&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-05-27T14:01:08Z"
+        },
+        {
+          "title": "NEWS、新曲「KMK」配信開始＆アートワーク公開 結成25周年に向けた“新三部作”プロジェクトも始動",
+          "description": "3人組グループ・NEWSの新曲「KMK」がきょう18日から配信スタートした。メンバー・小山慶一郎、増田貴久、加藤シゲアキのイニシャルを意味する楽曲タイトル「KMK」のロゴが印象的な赤で刻まれたアートワークも公開された。",
+          "url": "https://www.sankei.com/article/20260518-2DNTX43P6JK6VNCMJFKGCZBKFU/",
+          "image": "https://www.sankei.com/resizer/v2/TNL6IUPTGNJS5PIGOITNWEZ7IM.jpg?auth=23f51da5f87c31e2f615e13d417496fe1feec58ce9d96128b5ce99fdb6451551&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-05-18T04:01:16Z"
+        },
+        {
+          "title": "アナログとメカニカルの二刀流。いいとこ取りなゲーミングキーボード｢G512 X｣",
+          "description": "Logitech（ロジテック）から新たなゲーミングキーボード｢G512 X｣が登場しました。G512 Xは、メカニカルスイッチの一部をアナログスイッチに切り替えられるという特徴があります。さらに、ゲーミングキーボードとしての機能も複数あり、カスタマイズ性も高いのです。いうなれば、アナログスイッチとメカニカルスイッチの二刀流といった感じ。現時点ではまだ日本では発売していませんが、どんなキーボードな",
+          "url": "https://www.gizmodo.jp/2026/05/logicool-g512-x-gaming-keyboard-review.html",
+          "image": "https://media.loom-app.com/gizmodo/dist/images/2026/05/08/logicool-g512-x-gaming-keyboard-review-001.jpg?w=1280&h=630&f=jpg",
+          "source": "ギズモード・ジャパン",
+          "publishedAt": "2026-05-15T11:30:00Z"
+        },
+        {
+          "title": "『UNDERTALE』“あみぐるみ”みたいな「あみこっと」からメタトン、ナプスタブルークが登場！ニンゲンなど仲間たちと一緒に集めたくなるアイテム",
+          "description": "『UNDERTALE』あみこっと各種が7月～10月にかけて順次展開予定！",
+          "url": "https://www.inside-games.jp/article/2026/05/15/181343.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1728431.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-05-15T03:10:03Z"
+        },
+        {
+          "title": "エンタメ業界「149」職種を紹介、『エンタメおしごと図鑑』発売 現場の“リアルな1日”＆M!LK・中川大志インタビューも",
+          "description": "アイドルや俳優、マネージャー、ヘアメイク、スタイリスト、編集者、アニメーター、ゲームプログラマーなど、エンタメ業界を支える“149”の職種を全ページフルカラーで紹介する『芸能・アニメ・ゲーム・音楽・マンガ　エンタメおしごと図鑑』（サンクチ…",
+          "url": "https://www.sankei.com/article/20260514-QOS6JX4CHRID5LX7DVBJ4ULFKQ/",
+          "image": "https://www.sankei.com/resizer/v2/Q7YQNBZROBPPNIO53VLC3ZYBA4.jpg?auth=9d3129555b7ce38a62ecbcd2e189926d84e1a05a3f5dd76eef39a40015db2817&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-05-14T03:31:10Z"
+        }
+      ]
+    },
+    "business_economy": {
+      "name": "ビジネス・経済",
+      "articles": []
+    }
+  }
+}
