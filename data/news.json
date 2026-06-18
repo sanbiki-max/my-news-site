@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T21:00:11.647Z",
+  "updatedAt": "2026-06-18T21:00:13.841Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -8,6 +8,14 @@
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "『Fallout』より「Pip-Boy 3000」の可動式レプリカが発売決定！価格は77,000円、「Atomic Command」のミニゲームも遊べる",
+          "description": "ダイカスト製メタルフロントケースやメモリーフォーム製カフを採用し、本物さながらの素材感を実現しています。",
+          "url": "https://www.inside-games.jp/article/2026/06/18/183154.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1744037.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-06-18T07:15:03Z"
+        },
         {
           "title": "宮田俊哉、セリフ丸暗記の少年がアニポケ声優に 人生変えた『ポケットモンスター』への30年間止まらぬ愛【インタビュー】",
           "description": "Kis-My-Ft2の宮田俊哉が、19日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　毎週金曜　後6：55）第141話「READY GO！ユナイトバトル！！」にゲスト声優として出演する。幼少期にはアニポケのセリフを丸暗記し…",
@@ -55,14 +63,6 @@
           "image": "https://www.sankei.com/resizer/v2/QVITWELCDBP6JMIHYCUNTU4WG4.jpg?auth=70b32f47db9f732d684185cd3597092ce54f49a51f8b919f9a233027ff11842f&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-05-27T14:01:08Z"
-        },
-        {
-          "title": "NEWS、新曲「KMK」配信開始＆アートワーク公開 結成25周年に向けた“新三部作”プロジェクトも始動",
-          "description": "3人組グループ・NEWSの新曲「KMK」がきょう18日から配信スタートした。メンバー・小山慶一郎、増田貴久、加藤シゲアキのイニシャルを意味する楽曲タイトル「KMK」のロゴが印象的な赤で刻まれたアートワークも公開された。",
-          "url": "https://www.sankei.com/article/20260518-2DNTX43P6JK6VNCMJFKGCZBKFU/",
-          "image": "https://www.sankei.com/resizer/v2/TNL6IUPTGNJS5PIGOITNWEZ7IM.jpg?auth=23f51da5f87c31e2f615e13d417496fe1feec58ce9d96128b5ce99fdb6451551&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-05-18T04:01:16Z"
         }
       ]
     },
