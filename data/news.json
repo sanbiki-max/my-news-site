@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:00:15.923Z",
+  "updatedAt": "2026-06-20T21:00:12.344Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -8,6 +8,14 @@
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "宮田俊哉、「自信」も“好き”を仕事にする責任 アニポケ出演で実感した声優としての現在地【インタビュー】",
+          "description": "Kis-My-Ft2の宮田俊哉が、19日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　毎週金曜　後6：55）第141話「READY GO！ユナイトバトル！！」にゲスト声優として出演した。一貫して“本当に好きなものを好きと言…",
+          "url": "https://www.sankei.com/article/20260619-NOXJIN76FNMEHOWG6ARFN4HUUY/",
+          "image": "https://www.sankei.com/resizer/v2/UUTSNX4XDNM6NOL2ZUW2H3OSE4.jpg?auth=29ee5ebe53cf2fe5525b4093269a7541398463446f03020e36ef1c8861c3f605&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-06-19T11:01:10Z"
+        },
         {
           "title": "『Fallout』より「Pip-Boy 3000」の可動式レプリカが発売決定！価格は77,000円、「Atomic Command」のミニゲームも遊べる",
           "description": "ダイカスト製メタルフロントケースやメモリーフォーム製カフを採用し、本物さながらの素材感を実現しています。",
