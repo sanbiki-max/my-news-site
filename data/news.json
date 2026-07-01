@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T21:00:19.240Z",
+  "updatedAt": "2026-07-01T21:00:15.677Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -89,6 +89,22 @@
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "「カービィカフェ」の限定メニュー！7月8日から「カービィカフェ Summer 2026」が開催ー今回は“かいふくアイテム”がテーマ",
+          "description": "ゲーム内の回復アイテムをテーマにした食事7種とグッズを販売。タコライスやフルーツポンチなどのフードメニュー、メロンクリームソーダなどのドリンクなどを用意。",
+          "url": "https://www.inside-games.jp/article/2026/07/01/183881.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1749541.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-01T08:40:03Z"
+        },
+        {
+          "title": "USJ「夏イベント」激変→びしょ濡れ“夜祭り” マイメロディ＆クロミも浴衣姿でアゲアゲ＜プログラム一覧＞",
+          "description": "ユニバーサル・スタジオ・ジャパン（USJ、大阪市此花区）は、7月1日から夏イベントをスタートする。開業25周年を迎えた今年は内容が一新され、パーク史上初となる“夜の夏祭り”『ユニバーサル・サマー・マツリ・ナイト ～ネオン・グロウアップ～』…",
+          "url": "https://www.sankei.com/article/20260630-EXZYBA7QZBPKXLGDS6LPOF3Z4Q/",
+          "image": "https://www.sankei.com/resizer/v2/T4WMRO7AHJNBXF5D7DV3GR3GWE.jpg?auth=e1cb1f2cff26b0e6df6f3c56501ebc419f37fc271f9aa17d5fb70aef04a6226a&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-06-30T09:31:12Z"
+        },
         {
           "title": "『メタファー：リファンタジオ』2,178円！『ユニコーンオーバーロード』『みんなのGOLF WORLD』2,728円、『ドラクエI＆II』は3,058円に─ゲオ店舗セールを実地調査",
           "description": "新作の発売に備えて節約したい、でもゲームは遊びたい。そんな願いを、お得なゲームセールで叶えてみてはいかがですか。",
