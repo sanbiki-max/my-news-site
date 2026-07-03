@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:00:18.877Z",
+  "updatedAt": "2026-07-03T21:00:14.175Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -89,6 +89,14 @@
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "ポケモンのメタモン「へんしん」ぬいぐるみ＆マスコット新登場 ゾロアやオーガポンなど6種類",
+          "description": "メタモンがいろいろなポケモンにへんしんしたグッズ「へんしん！メタモン」シリーズの新しいぬいぐるみとマスコットが11日、ポケモンセンターに登場する。ラインナップは、ミカルゲ・ゾロア・ヒスイゾロア・メッソン・ニャオハ・オーガポンの6種類となっ…",
+          "url": "https://www.sankei.com/article/20260703-32443KX3ONIPRBXNDR4EWDFPHE/",
+          "image": "https://www.sankei.com/resizer/v2/PYGIQA7PXVLTDPTZGXVZVNEKKA.jpg?auth=2dc9f87063c4a14c9a6bddce60234781bfa1d6157c1709e36e2183dd7ad64f2d&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-03T08:01:10Z"
+        },
         {
           "title": "「カービィカフェ」の限定メニュー！7月8日から「カービィカフェ Summer 2026」が開催ー今回は“かいふくアイテム”がテーマ",
           "description": "ゲーム内の回復アイテムをテーマにした食事7種とグッズを販売。タコライスやフルーツポンチなどのフードメニュー、メロンクリームソーダなどのドリンクなどを用意。",
