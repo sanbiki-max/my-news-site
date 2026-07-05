@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T21:00:18.797Z",
+  "updatedAt": "2026-07-05T21:00:15.796Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -213,14 +213,6 @@
           "image": "https://www.sankei.com/resizer/v2/SZENR3YAXJFXVOIJ5GBC6FFSWM.jpg?auth=2b9418ee14d84f97a266ad05d8113ff6bbf4a45109615da99e98ef16e003501b&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-21T20:30:00Z"
-        },
-        {
-          "title": "S&P500・オルカン 最新情報。4日は反転下落、S&P500の9営業日連続上昇もこの日で終了",
-          "description": "S&P500は3日（米時間）、9営業日連続上昇がストップしました。オルカン関連指数も久しぶりに下落しています。この日は、地政学的リスクの再上昇、経済指標による「利上げリスク」再燃などが株価の重石となりました。",
-          "url": "https://www.businessinsider.jp/article/2606-04-todays-sp500-and-msci-acwi/",
-          "image": "https://media.loom-app.com/loom/2026/06/04/27c3eedb-45e6-445b-b6b1-d641d81b8953/original.jpg?w=1200&h=630",
-          "source": "Business Insider Japan",
-          "publishedAt": "2026-06-04T02:57:04Z"
         }
       ]
     }
