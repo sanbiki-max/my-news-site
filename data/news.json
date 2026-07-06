@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:00:15.796Z",
+  "updatedAt": "2026-07-06T21:00:18.770Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,22 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "映画もゲームも「所有できない」時代が来る… 世界的クリエイター小島秀夫氏が語る「恐怖」の正体",
+          "description": "家庭用ゲーム機「PlayStation」を展開するソニー・インタラクティブエンタテインメントの下した決断が、ゲームファンの枠を超えて大きな波紋を広げている。同社は、2028年1月以降に発売するPlayStationの新作ゲームについて、物…",
+          "url": "https://www.iza.ne.jp/article/20260706-QBY2BGIRWBAWBHVMDPLKU3EMTU/",
+          "image": "https://www.iza.ne.jp/resizer/v2/DP33TQOUANH65KIIIJTGEEREPA.jpg?auth=520a2fd15e3b50794815c6dc2bebc5f2ed6b7a8d2408c0def82e294124a34fe8&quality=50&focal=638%2C452&width=1200&height=675",
+          "source": "Iza",
+          "publishedAt": "2026-07-06T08:32:36Z"
+        },
+        {
+          "title": "もうゲームを買いにショップに行くことはないのか…。PlayStation、ディスク版ソフトの販売を終了へ",
+          "description": "正式決定です。PlayStationは2028年1月以降、新作タイトルでのディスク版ソフトの提供を終了。今後はデジタル版のみのリリースとなります。ソニー・インタラクティブエンタテインメント（SIE）のコンテンツ・コミュニケーション担当シニア",
+          "url": "https://www.gizmodo.jp/article/playstation-kills-off-future-physical-games/",
+          "image": "https://media.loom-app.com/loom/2026/07/03/d11f18a4-6d93-4096-a02f-e6657474fc30/original.jpg?w=1200&h=630",
+          "source": "ギズモード・ジャパン",
+          "publishedAt": "2026-07-06T03:00:00Z"
+        },
+        {
           "title": "ポケモンのメタモン「へんしん」ぬいぐるみ＆マスコット新登場 ゾロアやオーガポンなど6種類",
           "description": "メタモンがいろいろなポケモンにへんしんしたグッズ「へんしん！メタモン」シリーズの新しいぬいぐるみとマスコットが11日、ポケモンセンターに登場する。ラインナップは、ミカルゲ・ゾロア・ヒスイゾロア・メッソン・ニャオハ・オーガポンの6種類となっ…",
           "url": "https://www.sankei.com/article/20260703-32443KX3ONIPRBXNDR4EWDFPHE/",
@@ -152,22 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1741370.jpg",
           "source": "インサイド",
           "publishedAt": "2026-06-11T10:30:03Z"
-        },
-        {
-          "title": "長年のファンならニヤつきっぱなし!?『レゴ バットマン：レガシー・オブ・ザ・ダークナイト』はバットマン90年の歴史と冒険を凝縮させた超快作バットマンゲームだ【PR】",
-          "description": "コミック、実写映画、TVアニメのネタが盛りだくさん！愛いっぱい、冒険いっぱい、歴代作のパロディいっぱいの決定版！",
-          "url": "https://jp.ign.com/lego-batman-legacy-of-the-dark-knight/83466/90pr",
-          "image": "https://sm.ign.com/t/ign_jp/screenshot/default/01_r49w.1200.jpg",
-          "source": "IGN JAPAN",
-          "publishedAt": "2026-06-09T04:00:00Z"
-        },
-        {
-          "title": "『ウィザードリィ』の生みの親は今、高校生のメンターをしている―「75周年も元気でいたい」ロバート・ウッドヘッド氏が45周年に語る、新世代への信頼【特別インタビュー】",
-          "description": "あの人の今。ゲーム開発やプログラム、そしてアニメからも大きく離れ、新世代の才能を育てることに喜びを感じているのだそう。",
-          "url": "https://www.inside-games.jp/article/2026/06/05/182455.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1737974.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-06-05T03:20:02Z"
         }
       ]
     },
