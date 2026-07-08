@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T21:00:15.033Z",
+  "updatedAt": "2026-07-08T21:00:18.408Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,22 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "なぜ「電ファミ」が出展側に？ 奥底には「インディーゲームに還元できていない問題意識」―「電ファミニコゲーマー」ブース担当者にインタビュー！ 100件以上から厳選の「特別推薦枠」や、「第四境界」新作『人のゲームカセット』展示も【BitSummit PUNCH】",
+          "description": "マレが「BitSummit PUNCH」にて「電ファミニコゲーマー」ブースを出展。ゲームメディアである「電ファミ」がなぜ出展に踏み切ったのかなどについてお話を伺いました。",
+          "url": "https://www.inside-games.jp/article/2026/07/08/184229.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1752013.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-08T08:30:04Z"
+        },
+        {
+          "title": "川崎皇輝、一つひとつの場面で再演を実感「ここに帰ってきたんだな」 2年ぶりの『町田くん』に意気込み「1公演1公演を大切に」",
+          "description": "ジュニアの川崎皇輝（※崎＝たつさき）が主演を務めるミュージカル『町田くんの世界』がきょう7日、東京・シアタークリエで開幕する。同日、公開ゲネプロが行われ、川崎らからの開幕記念コメントが寄せられた。",
+          "url": "https://www.sankei.com/article/20260707-CBGGYRNCGNLQXBTSGV2RTYKVZE/",
+          "image": "https://www.sankei.com/resizer/v2/YHNRDLSJ4RNR7HVDUNTQTKVUW4.jpg?auth=5993bc8e995866aff32e37d5bd006ae4ba2926c9007ce6198f00bb766e7d9cda&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-07T09:01:11Z"
+        },
+        {
           "title": "映画もゲームも「所有できない」時代が来る… 世界的クリエイター小島秀夫氏が語る「恐怖」の正体",
           "description": "家庭用ゲーム機「PlayStation」を展開するソニー・インタラクティブエンタテインメントの下した決断が、ゲームファンの枠を超えて大きな波紋を広げている。同社は、2028年1月以降に発売するPlayStationの新作ゲームについて、物…",
           "url": "https://www.iza.ne.jp/article/20260706-QBY2BGIRWBAWBHVMDPLKU3EMTU/",
@@ -152,22 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1744037.jpg",
           "source": "インサイド",
           "publishedAt": "2026-06-18T07:15:03Z"
-        },
-        {
-          "title": "宮田俊哉、セリフ丸暗記の少年がアニポケ声優に 人生変えた『ポケットモンスター』への30年間止まらぬ愛【インタビュー】",
-          "description": "Kis-My-Ft2の宮田俊哉が、19日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　毎週金曜　後6：55）第141話「READY GO！ユナイトバトル！！」にゲスト声優として出演する。幼少期にはアニポケのセリフを丸暗記し…",
-          "url": "https://www.sankei.com/article/20260612-XOFYADDCKZOJNOU7HIWB5ZEEYI/",
-          "image": "https://www.sankei.com/resizer/v2/FEDIXLPFNVMMFCAUPGA3HBEGZU.jpg?auth=a8fefab66b7a9143abe36a3f464066c4b1b8fd0c6971ce2a509acd4cdf80423a&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-12T11:01:09Z"
-        },
-        {
-          "title": "車×美少女のアニメ調APRGレースゲーム『Project GT』クラファン達成―開発コアメンバーはmiHoYo、NetEaseなど出身の実力者とのこと",
-          "description": "miHoYo、Tencent、NetEaseといったスタジオ出身のメンバーが開発する、車×美少女×ARPGを融合させたアニメ調レースゲーム！",
-          "url": "https://www.inside-games.jp/article/2026/06/11/182825.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1741370.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-06-11T10:30:03Z"
         }
       ]
     },
