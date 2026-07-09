@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-07-08T21:00:18.408Z",
+  "updatedAt": "2026-07-09T21:00:16.829Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "「万能」の対話相手AIにどこまで頼るか 日本語教育のプロに聞くタイパ時代の文章作成術 伝える作法 国立国語研究所教授の石黒圭さん",
+          "description": "長文の要約も作成も短時間でこなす生成AI（人工知能）に、どこまで頼るか－。作業効率の向上などが期待できる一方、AI偏重に陥れば、利用者個人の思考力減退、ひいてはオリジナリティーの喪失につながりかねない。「批判的な思考に基づく対話と試行錯誤…",
+          "url": "https://www.iza.ne.jp/article/20260709-T5NSJVV4TFN3VONUYRLUW3MT7I/",
+          "image": "https://www.iza.ne.jp/resizer/v2/TGUUX7CU4NL6RHFJL2PD6HIT7E.jpg?auth=27350b45344668d55ee8377ba4bcd709170cedeea4d65c54d31536a194d06e71&quality=50&focal=2290%2C1206&width=1200&height=675",
+          "source": "Iza",
+          "publishedAt": "2026-07-09T02:30:00Z"
+        },
+        {
+          "title": "「万能」の対話相手AIにどこまで頼るか 日本語教育のプロに聞くタイパ時代の文章作成術",
+          "description": "長文の要約も作成も短時間でこなす生成AI（人工知能）に、どこまで頼るか－。作業効率の向上などが期待できる一方、AI偏重に陥れば、利用者個人の思考力減退、ひいてはオリジナリティーの喪失につながりかねない。「批判的な思考に基づく対話と試行錯誤…",
+          "url": "https://www.sankei.com/article/20260709-T5NSJVV4TFN3VONUYRLUW3MT7I/",
+          "image": "https://www.sankei.com/resizer/v2/TGUUX7CU4NL6RHFJL2PD6HIT7E.jpg?auth=27350b45344668d55ee8377ba4bcd709170cedeea4d65c54d31536a194d06e71&quality=50&focal=2290%2C1206&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-09T02:30:00Z"
+        },
         {
           "title": "映画『her』の監督「正直気まずい」。AIチャットボットの設計に警鐘",
           "description": "今まさに現実となったあの映画の世界。2013年のスパイク・ジョーンズ監督作品『her/世界でひとつの彼女』では、深い孤独を抱えてだんだんと内にこもっていく男性が、音声で会話するAI（人工知能）のオペレーティングシステムに少しずつ恋をしていく",
@@ -67,22 +83,6 @@
           "image": "https://www.sankei.com/resizer/v2/KQEXUYQXWJL3PMNPHA6ZS4V6EA.jpg?auth=2f021d59c62ad516ffc4e4a553ccc5edfc9bca70a570a911fe182ad89ffb83b5&quality=50&focal=686%2C756&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-19T12:36:05Z"
-        },
-        {
-          "title": "「数学は人間の営みである」数学者たちがAIの普及を受けた宣言を発表",
-          "description": "あらゆる場面において生成AIによる創作物が急速に増える一方、その扱い方や影響についてはまだまだ問題が山積しています。そうしたなか、世界中の数学者たちがひとつの宣言を発表しました。「人工知能と数学に関するライデン宣言」は、2026年6月2日に",
-          "url": "https://www.gizmodo.jp/article/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics/",
-          "image": "https://media.loom-app.com/loom/2026/06/17/f18d9c52-9f2a-4d38-bdc7-5e113eb97f45/original.jpg?w=1200&h=630",
-          "source": "ギズモード・ジャパン",
-          "publishedAt": "2026-06-17T12:30:00Z"
-        },
-        {
-          "title": "汎用人工知能の出現まであと「数年」…グーグル・ディープマインドCEO、人類は一刻も早く備えるべきと警告",
-          "description": "ノーベル化学賞受賞者で、グーグル・ディープマインドのCEOでもあるデミス・ハサビス氏は、汎用人工知能（AGI）の実現が「数年先」に迫っていると語りました。",
-          "url": "https://www.businessinsider.jp/article/2606-google-deepmind-ceo-demis-hassabis-agi-new-human-era/",
-          "image": "https://media.loom-app.com/loom/2026/06/15/20097070-243c-439a-9393-3f41709150b3/original.jpg?w=1200&h=630",
-          "source": "Business Insider Japan",
-          "publishedAt": "2026-06-15T22:00:00Z"
         }
       ]
     },
