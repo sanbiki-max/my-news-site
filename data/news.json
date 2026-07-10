@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-07-09T21:00:16.829Z",
+  "updatedAt": "2026-07-10T21:00:19.792Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "ウォール街の19社中18社がスペースXを「買い」礼賛。ただ1社「中立」表明したアナリストに真意を聞いた",
+          "description": "記録的な相場をけん引してきたAIトレードの「変調」が明確になったことで、株式市場全体の先行きに不透明感が出てくる展開は避けられないでしょう。そして、そうした変化が特に大きく影響してきそうなのが、史上最大規模の新規株式公開（IPO）を果たしたばかりの人工知能・宇宙開発企業スペースX（SpaceX）の株価動向です。",
+          "url": "https://www.businessinsider.jp/article/cutting-edge-20260710-spacex-stock-outlook-interview-moffettnathanson-analyst-neutral-share-rating-explanation/",
+          "image": "https://media.loom-app.com/loom/2026/07/10/2c2f8ca1-362d-4e3e-9f7e-932678865a60/original.jpg?w=1200&h=630",
+          "source": "Business Insider Japan",
+          "publishedAt": "2026-07-10T02:20:00Z"
+        },
         {
           "title": "「万能」の対話相手AIにどこまで頼るか 日本語教育のプロに聞くタイパ時代の文章作成術 伝える作法 国立国語研究所教授の石黒圭さん",
           "description": "長文の要約も作成も短時間でこなす生成AI（人工知能）に、どこまで頼るか－。作業効率の向上などが期待できる一方、AI偏重に陥れば、利用者個人の思考力減退、ひいてはオリジナリティーの喪失につながりかねない。「批判的な思考に基づく対話と試行錯誤…",
@@ -67,14 +75,6 @@
           "image": "https://www.iza.ne.jp/resizer/v2/ADGEGM3KRRPK7ALRPTY7HLCGWU.jpg?auth=844831d1dc73c582c9f75543bea4b94819e8dd36fa5185eadcb123ac33d090ef&quality=50&smart=true&width=1200&height=675",
           "source": "Iza",
           "publishedAt": "2026-06-21T00:35:29Z"
-        },
-        {
-          "title": "ボンカレー次世代の味は 食品開発でAI活用広がる 決め手の原材料、秘伝レシピも学習",
-          "description": "商品開発や製造の効率化を目的に、食品・飲料分野での人工知能（AI）活用が広がっている。大塚食品は発売から58年のロングセラー商品「ボンカレー」について、おなじみの味の決め手となる原材料や秘伝のレシピを学習したAIシステムを導入。属人的なノ…",
-          "url": "https://www.iza.ne.jp/article/20260619-WXJWGJMJWFIXLPQQ3G7ATLFQXI/",
-          "image": "https://www.iza.ne.jp/resizer/v2/KQEXUYQXWJL3PMNPHA6ZS4V6EA.jpg?auth=2f021d59c62ad516ffc4e4a553ccc5edfc9bca70a570a911fe182ad89ffb83b5&quality=50&focal=686%2C756&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-06-19T12:36:05Z"
         },
         {
           "title": "ボンカレー次世代の味は 食品開発でAI活用広がる 決め手の原材料、秘伝レシピも学習",
