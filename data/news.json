@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T21:00:19.792Z",
+  "updatedAt": "2026-07-11T21:00:15.356Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "【コスプレ】北海道・洞爺湖が「コスプレ」に染まる！VTuberから人気ゲームまで抜群のロケーションも必見な美女レイヤー10選【写真45枚】",
+          "description": "6月27、28日開催「TOYAKOマンガ・アニメフェスタ」参加の美麗レイヤーをまとめてお届けします。",
+          "url": "https://www.inside-games.jp/article/2026/07/11/184372.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1752114.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-10T23:00:03Z"
+        },
+        {
           "title": "なぜ「電ファミ」が出展側に？ 奥底には「インディーゲームに還元できていない問題意識」―「電ファミニコゲーマー」ブース担当者にインタビュー！ 100件以上から厳選の「特別推薦枠」や、「第四境界」新作『人のゲームカセット』展示も【BitSummit PUNCH】",
           "description": "マレが「BitSummit PUNCH」にて「電ファミニコゲーマー」ブースを出展。ゲームメディアである「電ファミ」がなぜ出展に踏み切ったのかなどについてお話を伺いました。",
           "url": "https://www.inside-games.jp/article/2026/07/08/184229.html",
@@ -160,14 +168,6 @@
           "image": "https://www.sankei.com/resizer/v2/UUTSNX4XDNM6NOL2ZUW2H3OSE4.jpg?auth=29ee5ebe53cf2fe5525b4093269a7541398463446f03020e36ef1c8861c3f605&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-19T11:01:10Z"
-        },
-        {
-          "title": "『Fallout』より「Pip-Boy 3000」の可動式レプリカが発売決定！価格は77,000円、「Atomic Command」のミニゲームも遊べる",
-          "description": "ダイカスト製メタルフロントケースやメモリーフォーム製カフを採用し、本物さながらの素材感を実現しています。",
-          "url": "https://www.inside-games.jp/article/2026/06/18/183154.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1744037.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-06-18T07:15:03Z"
         }
       ]
     },
