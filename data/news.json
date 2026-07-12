@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:00:15.356Z",
+  "updatedAt": "2026-07-12T21:00:18.109Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "マイケルとジャクソン5、家族の肖像 質素なバンガローから世界的スターへ駆け上がる",
+          "description": "歴史に残るアイコニックなボーイバンドといえば？ おそらくジャクソン5はその筆頭に挙げられるだろう。インディアナ州ゲーリー出身のジャクソン5は、ジャッキー、ティト、ジャーメイン、マーロン、そしてマイケル・ジャクソンの兄弟からなる5人組。9人…",
+          "url": "https://www.sankei.com/article/20260712-QCTOQA6S3NIIDK2X32O2URABIU/",
+          "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-12T05:00:00Z"
+        },
+        {
           "title": "【コスプレ】北海道・洞爺湖が「コスプレ」に染まる！VTuberから人気ゲームまで抜群のロケーションも必見な美女レイヤー10選【写真45枚】",
           "description": "6月27、28日開催「TOYAKOマンガ・アニメフェスタ」参加の美麗レイヤーをまとめてお届けします。",
           "url": "https://www.inside-games.jp/article/2026/07/11/184372.html",
@@ -160,14 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1747609.jpg",
           "source": "インサイド",
           "publishedAt": "2026-06-26T08:00:03Z"
-        },
-        {
-          "title": "宮田俊哉、「自信」も“好き”を仕事にする責任 アニポケ出演で実感した声優としての現在地【インタビュー】",
-          "description": "Kis-My-Ft2の宮田俊哉が、19日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　毎週金曜　後6：55）第141話「READY GO！ユナイトバトル！！」にゲスト声優として出演した。一貫して“本当に好きなものを好きと言…",
-          "url": "https://www.sankei.com/article/20260619-NOXJIN76FNMEHOWG6ARFN4HUUY/",
-          "image": "https://www.sankei.com/resizer/v2/UUTSNX4XDNM6NOL2ZUW2H3OSE4.jpg?auth=29ee5ebe53cf2fe5525b4093269a7541398463446f03020e36ef1c8861c3f605&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-19T11:01:10Z"
         }
       ]
     },
