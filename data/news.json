@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T21:00:18.109Z",
+  "updatedAt": "2026-07-13T21:00:16.460Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "モンスト『呪術廻戦』第3弾 ガチャ内容発表で虎杖悠仁、七海建人、五条悟コラボキャラ初の真獣神化",
+          "description": "スマートフォン向けゲーム『モンスターストライク』（モンスト）は、アニメ『呪術廻戦』とのコラボ第3弾を14日正午より開始することを発表した。コラボで初めて、モンストWebショップでコラボガチャを先行販売。「乙骨憂太」「脹相」「禪院真希」など…",
+          "url": "https://www.sankei.com/article/20260712-4CLGOWVPEFISDFPZPAEFMBYTKI/",
+          "image": "https://www.sankei.com/resizer/v2/M36MBH7LWFL7DPZQAYCBJGF6UA.jpg?auth=67287be0ea7ee76116c2757f2d53874fad271003bcf42b02545264e504204c37&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-12T12:31:08Z"
+        },
+        {
           "title": "マイケルとジャクソン5、家族の肖像 質素なバンガローから世界的スターへ駆け上がる",
           "description": "歴史に残るアイコニックなボーイバンドといえば？ おそらくジャクソン5はその筆頭に挙げられるだろう。インディアナ州ゲーリー出身のジャクソン5は、ジャッキー、ティト、ジャーメイン、マーロン、そしてマイケル・ジャクソンの兄弟からなる5人組。9人…",
           "url": "https://www.sankei.com/article/20260712-QCTOQA6S3NIIDK2X32O2URABIU/",
@@ -160,20 +168,20 @@
           "image": "https://www.sankei.com/resizer/v2/T4WMRO7AHJNBXF5D7DV3GR3GWE.jpg?auth=e1cb1f2cff26b0e6df6f3c56501ebc419f37fc271f9aa17d5fb70aef04a6226a&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-30T09:31:12Z"
-        },
-        {
-          "title": "『メタファー：リファンタジオ』2,178円！『ユニコーンオーバーロード』『みんなのGOLF WORLD』2,728円、『ドラクエI＆II』は3,058円に─ゲオ店舗セールを実地調査",
-          "description": "新作の発売に備えて節約したい、でもゲームは遊びたい。そんな願いを、お得なゲームセールで叶えてみてはいかがですか。",
-          "url": "https://www.inside-games.jp/article/2026/06/26/183623.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1747609.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-06-26T08:00:03Z"
         }
       ]
     },
     "business_economy": {
       "name": "ビジネス・経済",
       "articles": [
+        {
+          "title": "独紳士服ブランド、ヒューゴ・ボスが筆頭株主による買収提案に「NO」。そのスーツ、値札の付け間違いじゃないか？",
+          "description": "ドイツの高級ファッションブランド、ヒューゴ・ボスは、筆頭株主のフレイザーズによる1株約7030円の買収提案を「安すぎる」として拒否を推奨した。ドイツの法的最低価格に基づくこの提案は、フレイザーズが保有比率を30％超に引き上げ、影響力を強める狙いがあるとみられる。経営陣は再建計画による価値向上を訴えるが、消費冷え込みや中国市場の低迷が続く中、株主がこの「現実的な現金」を前にどこまで耐えられるかが焦点だ。",
+          "url": "https://www.businessinsider.jp/article/2607-news-hugo-boss-tells-frasers-this-suit-is-too-cheap/",
+          "image": "https://media.loom-app.com/loom/2026/07/10/77bc1c49-ac8e-4895-89e9-638efee52075/original.jpg?w=1200&h=630",
+          "source": "Business Insider Japan",
+          "publishedAt": "2026-07-12T21:30:00Z"
+        },
         {
           "title": "株価7万2000円の残酷。年収300万層が「絶対的貧困」を防ぐ最終サバイバル（1/2ページ）",
           "description": "2026年6月、日経平均株価がついに史上初の「7万円」の大台を突破し、7万2000円台へと突入した。AI・半導体関連銘柄が牽引する空前の株高に市場は沸き立っている。だが、ニュースで躍る「歴史的最高値」という言葉の恩恵を実感できている人間が…",
