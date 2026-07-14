@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-07-13T21:00:16.460Z",
+  "updatedAt": "2026-07-14T21:00:22.213Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "批判殺到。他人のインスタ画像を無断でAI合成できる機能、3日で停止",
+          "description": "サービス停止最速説まである。Meta（メタ）が発表した新しいAI（人工知能）機能が、プライバシーの問題などから批判を呼び、導入からわずか3日で停止となりました。停止したのは、Instagram（インスタグラム）の投稿画像を、他人が勝手にAI",
+          "url": "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
+          "image": "https://media.loom-app.com/loom/2026/07/13/8eee0a15-8f78-4f44-8cff-6b6ad595b80f/original.jpg?w=1200&h=630",
+          "source": "ギズモード・ジャパン",
+          "publishedAt": "2026-07-14T01:00:00Z"
+        },
         {
           "title": "ウォール街の19社中18社がスペースXを「買い」礼賛。ただ1社「中立」表明したアナリストに真意を聞いた",
           "description": "記録的な相場をけん引してきたAIトレードの「変調」が明確になったことで、株式市場全体の先行きに不透明感が出てくる展開は避けられないでしょう。そして、そうした変化が特に大きく影響してきそうなのが、史上最大規模の新規株式公開（IPO）を果たしたばかりの人工知能・宇宙開発企業スペースX（SpaceX）の株価動向です。",
@@ -75,20 +83,20 @@
           "image": "https://www.iza.ne.jp/resizer/v2/ADGEGM3KRRPK7ALRPTY7HLCGWU.jpg?auth=844831d1dc73c582c9f75543bea4b94819e8dd36fa5185eadcb123ac33d090ef&quality=50&smart=true&width=1200&height=675",
           "source": "Iza",
           "publishedAt": "2026-06-21T00:35:29Z"
-        },
-        {
-          "title": "ボンカレー次世代の味は 食品開発でAI活用広がる 決め手の原材料、秘伝レシピも学習",
-          "description": "商品開発や製造の効率化を目的に、食品・飲料分野での人工知能（AI）活用が広がっている。大塚食品は発売から58年のロングセラー商品「ボンカレー」について、おなじみの味の決め手となる原材料や秘伝のレシピを学習したAIシステムを導入。属人的なノ…",
-          "url": "https://www.sankei.com/article/20260619-WXJWGJMJWFIXLPQQ3G7ATLFQXI/",
-          "image": "https://www.sankei.com/resizer/v2/KQEXUYQXWJL3PMNPHA6ZS4V6EA.jpg?auth=2f021d59c62ad516ffc4e4a553ccc5edfc9bca70a570a911fe182ad89ffb83b5&quality=50&focal=686%2C756&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-19T12:36:05Z"
         }
       ]
     },
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "『シュタゲ』リアル脱出ゲームで白上フブキと星街すいせいがタイムリープ！『STEINS;GATE RE:BOOT』リリース前に再認識した「シュタゲすげえ！」【白上フブキ／星街すいせい／大空スバル／兎田ぺこら】",
+          "description": "リアル脱出ゲームとテレビアニメ同時視聴でホロライブのタレントたちはどんな感想を口にしたのか!?",
+          "url": "https://www.inside-games.jp/article/2026/07/14/184492.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1747819.png",
+          "source": "インサイド",
+          "publishedAt": "2026-07-14T03:25:03Z"
+        },
         {
           "title": "モンスト『呪術廻戦』第3弾 ガチャ内容発表で虎杖悠仁、七海建人、五条悟コラボキャラ初の真獣神化",
           "description": "スマートフォン向けゲーム『モンスターストライク』（モンスト）は、アニメ『呪術廻戦』とのコラボ第3弾を14日正午より開始することを発表した。コラボで初めて、モンストWebショップでコラボガチャを先行販売。「乙骨憂太」「脹相」「禪院真希」など…",
@@ -160,14 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1749541.jpg",
           "source": "インサイド",
           "publishedAt": "2026-07-01T08:40:03Z"
-        },
-        {
-          "title": "USJ「夏イベント」激変→びしょ濡れ“夜祭り” マイメロディ＆クロミも浴衣姿でアゲアゲ＜プログラム一覧＞",
-          "description": "ユニバーサル・スタジオ・ジャパン（USJ、大阪市此花区）は、7月1日から夏イベントをスタートする。開業25周年を迎えた今年は内容が一新され、パーク史上初となる“夜の夏祭り”『ユニバーサル・サマー・マツリ・ナイト ～ネオン・グロウアップ～』…",
-          "url": "https://www.sankei.com/article/20260630-EXZYBA7QZBPKXLGDS6LPOF3Z4Q/",
-          "image": "https://www.sankei.com/resizer/v2/T4WMRO7AHJNBXF5D7DV3GR3GWE.jpg?auth=e1cb1f2cff26b0e6df6f3c56501ebc419f37fc271f9aa17d5fb70aef04a6226a&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-30T09:31:12Z"
         }
       ]
     },
