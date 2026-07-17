@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-07-16T21:00:18.340Z",
+  "updatedAt": "2026-07-17T21:00:17.706Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "医療専門家のAIボットにアドバイスをもらう時代 人間相手よりも費用は安いが課題も",
+          "description": "スタートアップOnixは、医療専門家の分身AIが、24時間365日休むことなく医学的助言を提供するサービスをローンチする。いずれはフィナンシャル系にも拡げる計画だという。 人工知能（AI）が世界中の知識を吸い込み、人間のように話せるよう…",
+          "url": "https://www.sankei.com/article/20260717-VKDIJDBHDRIGHLR5EL37GCK7XM/",
+          "image": "https://www.sankei.com/resizer/v2/VH4XSW5A6NKB3IS3BBGCYVFHNM.jpg?auth=89aa22572da493f9b131d8de4b23174d9d928e00e007d3444cbddd9a41b37bd3&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-17T06:30:00Z"
+        },
         {
           "title": "批判殺到。他人のインスタ画像を無断でAI合成できる機能、3日で停止",
           "description": "サービス停止最速説まである。Meta（メタ）が発表した新しいAI（人工知能）機能が、プライバシーの問題などから批判を呼び、導入からわずか3日で停止となりました。停止したのは、Instagram（インスタグラム）の投稿画像を、他人が勝手にAI",
@@ -75,20 +83,20 @@
           "image": "https://www.sankei.com/resizer/v2/ADGEGM3KRRPK7ALRPTY7HLCGWU.jpg?auth=844831d1dc73c582c9f75543bea4b94819e8dd36fa5185eadcb123ac33d090ef&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-21T00:35:29Z"
-        },
-        {
-          "title": "「鉄道の安全」守る技磨く JR東日本横浜支社 若手育てる久里浜の拠点 教訓生かし訓練",
-          "description": "首都圏のJR東日本の路線で今年1～2月、長時間にわたり列車の運転を見合わせる大規模なトラブルが相次いだ。再発防止のため同社は、新型コロナ禍で抑えた設備メンテナンスの強化や、技術系社員の採用増などの対策を決めた。人工知能（AI）の導入など省…",
-          "url": "https://www.iza.ne.jp/article/20260621-IL4ANW4IAVNK5JYJNJUHU3BT2I/",
-          "image": "https://www.iza.ne.jp/resizer/v2/ADGEGM3KRRPK7ALRPTY7HLCGWU.jpg?auth=844831d1dc73c582c9f75543bea4b94819e8dd36fa5185eadcb123ac33d090ef&quality=50&smart=true&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-06-21T00:35:29Z"
         }
       ]
     },
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "ラウンドワン『ONE PIECE』企画で注意喚起！カード配布のルール変更で謝罪 転売行為＆SNSのデマ情報に警告",
+          "description": "ラウンドワンは16日、18日からスタートするアニメ『ONE PIECE』とのコラボレーション企画について、ノベルティの「ONE PIECE カードゲーム」の配布方法および配布ルールを変更することを発表した。また、ノベルティの転売行為やSN…",
+          "url": "https://www.sankei.com/article/20260716-2TQMOGQLU5NVXMITKUMWNI4LEM/",
+          "image": "https://www.sankei.com/resizer/v2/UFOZBXY7OFN6LPRQNIZLG7Y5CI.jpg?auth=db50461589a347e41d4d2b6d61d4a9ed06c546e4e4443f60143236f5ecd0dbea&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-16T12:01:08Z"
+        },
         {
           "title": "『シュタゲ』リアル脱出ゲームで白上フブキと星街すいせいがタイムリープ！『STEINS;GATE RE:BOOT』リリース前に再認識した「シュタゲすげえ！」【白上フブキ／星街すいせい／大空スバル／兎田ぺこら】",
           "description": "リアル脱出ゲームとテレビアニメ同時視聴でホロライブのタレントたちはどんな感想を口にしたのか!?",
@@ -160,14 +168,6 @@
           "image": "https://www.sankei.com/resizer/v2/PYGIQA7PXVLTDPTZGXVZVNEKKA.jpg?auth=2dc9f87063c4a14c9a6bddce60234781bfa1d6157c1709e36e2183dd7ad64f2d&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-03T08:01:10Z"
-        },
-        {
-          "title": "「カービィカフェ」の限定メニュー！7月8日から「カービィカフェ Summer 2026」が開催ー今回は“かいふくアイテム”がテーマ",
-          "description": "ゲーム内の回復アイテムをテーマにした食事7種とグッズを販売。タコライスやフルーツポンチなどのフードメニュー、メロンクリームソーダなどのドリンクなどを用意。",
-          "url": "https://www.inside-games.jp/article/2026/07/01/183881.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1749541.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-07-01T08:40:03Z"
         }
       ]
     },
