@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:00:17.706Z",
+  "updatedAt": "2026-07-18T21:00:18.898Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,30 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "CUTIE STREETが語る8人の絆「付き合ってる？みたいな感覚」【インタビュー後編】",
+          "description": "8人組アイドルグループ・CUTIE STREETが、8月28日に放送されるテレビアニメ『ポケットモンスター』（テレ東系　午後6：55から）にピカチュウアイドルグループ「キューティーピカピカ」としてゲスト声優として出演する。インタビュー後編…",
+          "url": "https://www.sankei.com/article/20260717-HGBZOVWDNNIU3G5GAQIY4XDETU/",
+          "image": "https://www.sankei.com/resizer/v2/ZE33ME7M5ZOJ7PNDJ7YYPEYLUQ.jpg?auth=32cc208a7b91c56373c3002675d1e6d50978329ecfa7d5135ca4893dfcecbdd0&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-17T11:31:12Z"
+        },
+        {
+          "title": "CUTIE STREET、初の『アニポケ』声優に大興奮「私たち、ピカチュウ語しゃべれるかも！」【インタビュー前編】",
+          "description": "8人組アイドルグループ・CUTIE STREETが、8月28日に放送されるテレビアニメ『ポケットモンスター』（テレ東系　午後6：55から）にゲスト声優として出演する。エンディングテーマ「キュートなキューたい」を担当するだけでなく、作品に登…",
+          "url": "https://www.sankei.com/article/20260717-EP5XC7FUNNKYFIKFRSHINQ4D7U/",
+          "image": "https://www.sankei.com/resizer/v2/NZUGRFXXANLZ3IQSU7LD6MODPQ.jpg?auth=4711753b6d2e4a9c0961c172919001101c10ca1c309f3483fb702b7972fff43c&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-17T11:31:11Z"
+        },
+        {
+          "title": "CUTIE STREET『ポケモン』ゲスト声優出演で喜び ピカチュウ8匹のアイドルグループ「キューティーピカピカ役」",
+          "description": "人気アイドルグループのCUTIE STREETが、8月28日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　テレビ東京系 毎週金曜 後6：55～）第147話にゲスト声優出演することが決定した。第147話では、8匹のピカチュウ…",
+          "url": "https://www.sankei.com/article/20260717-YNCAGP4PNNKCLLH4YHKKLGO354/",
+          "image": "https://www.sankei.com/resizer/v2/TVBFMQNUOFLCXF2P4VWIJQ5PBE.jpg?auth=1624fa8a85f63001eee90ea1d4b2af0d81c7171aa269cf614ebf76a3825ccc56&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-17T11:31:10Z"
+        },
+        {
           "title": "ラウンドワン『ONE PIECE』企画で注意喚起！カード配布のルール変更で謝罪 転売行為＆SNSのデマ情報に警告",
           "description": "ラウンドワンは16日、18日からスタートするアニメ『ONE PIECE』とのコラボレーション企画について、ノベルティの「ONE PIECE カードゲーム」の配布方法および配布ルールを変更することを発表した。また、ノベルティの転売行為やSN…",
           "url": "https://www.sankei.com/article/20260716-2TQMOGQLU5NVXMITKUMWNI4LEM/",
@@ -144,30 +168,6 @@
           "image": "https://www.sankei.com/resizer/v2/YHNRDLSJ4RNR7HVDUNTQTKVUW4.jpg?auth=5993bc8e995866aff32e37d5bd006ae4ba2926c9007ce6198f00bb766e7d9cda&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-07T09:01:11Z"
-        },
-        {
-          "title": "映画もゲームも「所有できない」時代が来る… 世界的クリエイター小島秀夫氏が語る「恐怖」の正体",
-          "description": "家庭用ゲーム機「PlayStation」を展開するソニー・インタラクティブエンタテインメントの下した決断が、ゲームファンの枠を超えて大きな波紋を広げている。同社は、2028年1月以降に発売するPlayStationの新作ゲームについて、物…",
-          "url": "https://www.iza.ne.jp/article/20260706-QBY2BGIRWBAWBHVMDPLKU3EMTU/",
-          "image": "https://www.iza.ne.jp/resizer/v2/DP33TQOUANH65KIIIJTGEEREPA.jpg?auth=520a2fd15e3b50794815c6dc2bebc5f2ed6b7a8d2408c0def82e294124a34fe8&quality=50&focal=638%2C452&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-07-06T08:32:36Z"
-        },
-        {
-          "title": "もうゲームを買いにショップに行くことはないのか…。PlayStation、ディスク版ソフトの販売を終了へ",
-          "description": "正式決定です。PlayStationは2028年1月以降、新作タイトルでのディスク版ソフトの提供を終了。今後はデジタル版のみのリリースとなります。ソニー・インタラクティブエンタテインメント（SIE）のコンテンツ・コミュニケーション担当シニア",
-          "url": "https://www.gizmodo.jp/article/playstation-kills-off-future-physical-games/",
-          "image": "https://media.loom-app.com/loom/2026/07/03/d11f18a4-6d93-4096-a02f-e6657474fc30/original.jpg?w=1200&h=630",
-          "source": "ギズモード・ジャパン",
-          "publishedAt": "2026-07-06T03:00:00Z"
-        },
-        {
-          "title": "ポケモンのメタモン「へんしん」ぬいぐるみ＆マスコット新登場 ゾロアやオーガポンなど6種類",
-          "description": "メタモンがいろいろなポケモンにへんしんしたグッズ「へんしん！メタモン」シリーズの新しいぬいぐるみとマスコットが11日、ポケモンセンターに登場する。ラインナップは、ミカルゲ・ゾロア・ヒスイゾロア・メッソン・ニャオハ・オーガポンの6種類となっ…",
-          "url": "https://www.sankei.com/article/20260703-32443KX3ONIPRBXNDR4EWDFPHE/",
-          "image": "https://www.sankei.com/resizer/v2/PYGIQA7PXVLTDPTZGXVZVNEKKA.jpg?auth=2dc9f87063c4a14c9a6bddce60234781bfa1d6157c1709e36e2183dd7ad64f2d&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-03T08:01:10Z"
         }
       ]
     },
