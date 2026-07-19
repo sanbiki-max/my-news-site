@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-07-18T21:00:18.898Z",
+  "updatedAt": "2026-07-19T21:00:19.242Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "ハイブリッド戦、宇宙・サイバー・電磁波…これが「新しい戦い方」だ 高市政権が進める「有事兵器」の戦慄",
+          "description": "戦争の様相が様変わりしている。日本も無関係ではない。安全保障政策として掲げた柱が「新しい戦い方」だ。その中身は、AI（人工知能）を用いた「有事兵器」である。宇宙・サイバー、無人機ドローンなどアップデートがなされている。その戦慄の実態とは―。（森健/サンデー毎日7月26・日8月2日合併号掲載）",
+          "url": "https://mainichi.jp/sunday/articles/20260713/org/00m/010/016000c",
+          "image": "https://cdn.mainichi.jp/vol1/2026/07/13/20260713org00m010011000p/0c10.jpg?1",
+          "source": "毎日新聞",
+          "publishedAt": "2026-07-19T07:00:00Z"
+        },
         {
           "title": "医療専門家のAIボットにアドバイスをもらう時代 人間相手よりも費用は安いが課題も",
           "description": "スタートアップOnixは、医療専門家の分身AIが、24時間365日休むことなく医学的助言を提供するサービスをローンチする。いずれはフィナンシャル系にも拡げる計画だという。 人工知能（AI）が世界中の知識を吸い込み、人間のように話せるよう…",
@@ -75,14 +83,6 @@
           "image": "https://media.loom-app.com/loom/2026/06/18/64921411-df5f-452f-ba1b-4713e2c2ebf9/original.jpg?w=1200&h=630",
           "source": "ギズモード・ジャパン",
           "publishedAt": "2026-06-22T05:35:00Z"
-        },
-        {
-          "title": "「鉄道の安全」守る技磨く JR東日本横浜支社 若手育てる久里浜の拠点 教訓生かし訓練",
-          "description": "首都圏のJR東日本の路線で今年1～2月、長時間にわたり列車の運転を見合わせる大規模なトラブルが相次いだ。再発防止のため同社は、新型コロナ禍で抑えた設備メンテナンスの強化や、技術系社員の採用増などの対策を決めた。人工知能（AI）の導入など省…",
-          "url": "https://www.sankei.com/article/20260621-IL4ANW4IAVNK5JYJNJUHU3BT2I/",
-          "image": "https://www.sankei.com/resizer/v2/ADGEGM3KRRPK7ALRPTY7HLCGWU.jpg?auth=844831d1dc73c582c9f75543bea4b94819e8dd36fa5185eadcb123ac33d090ef&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-21T00:35:29Z"
         }
       ]
     },
