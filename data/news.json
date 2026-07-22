@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-07-21T21:00:14.572Z",
+  "updatedAt": "2026-07-22T21:00:20.936Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "マグニフィセント・セブン時代はもう終わり…シティが新たな勝ち組銘柄群「グロース・クラスター」を提唱",
+          "description": "米金融大手シティは、マグニフィセント・セブンより、自行が提唱する「グロース・クラスター」のほうが、高い潜在成長力と、AI（人工知能）の追い風を直接受ける銘柄群だと強調しています。",
+          "url": "https://www.businessinsider.jp/article/2607-growth-stocks-investment-strategy-sp500-magnificent-7-ai-citi/",
+          "image": "https://media.loom-app.com/loom/2026/07/20/86ebc85c-94af-4543-8082-145cb340bfdb/original.jpg?w=1200&h=630",
+          "source": "Business Insider Japan",
+          "publishedAt": "2026-07-21T13:00:00Z"
+        },
         {
           "title": "ハイブリッド戦、宇宙・サイバー・電磁波…これが「新しい戦い方」だ 高市政権が進める「有事兵器」の戦慄",
           "description": "戦争の様相が様変わりしている。日本も無関係ではない。安全保障政策として掲げた柱が「新しい戦い方」だ。その中身は、AI（人工知能）を用いた「有事兵器」である。宇宙・サイバー、無人機ドローンなどアップデートがなされている。その戦慄の実態とは―。（森健/サンデー毎日7月26・日8月2日合併号掲載）",
@@ -75,20 +83,20 @@
           "image": "https://www.sankei.com/resizer/v2/3D2VLVB7FRPNJM4G5TUHH63LEM.jpg?auth=dca8b7af3b4c553f454be15a99754dd3d8ed4d8cda7e242c8eaf82240975edb0&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-06-24T09:31:08Z"
-        },
-        {
-          "title": "ロボット犬はもう、データセンターの警備を始めている。1台2800万円でも「2年で投資回収できる」",
-          "description": "BUSINESS INSIDER 2026年3月23日掲載の記事より転載ロボットが奪っているのは人間の仕事だけではない。犬の仕事さえも奪い始めている。しかも彼らが進出しようとしているのは、いま最も熱い「人工知能（AI）データセンター」の警備",
-          "url": "https://www.gizmodo.jp/article/bb3ff8a2-ec5b-4f90-8f89-8a9885a99a2d/",
-          "image": "https://media.loom-app.com/loom/2026/06/18/64921411-df5f-452f-ba1b-4713e2c2ebf9/original.jpg?w=1200&h=630",
-          "source": "ギズモード・ジャパン",
-          "publishedAt": "2026-06-22T05:35:00Z"
         }
       ]
     },
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "「みどりのマキバオー」オンラインくじが販売中！丸出しぬいぐるみほか、いろんな表情をみせるゲーハーアクスタなどラインナップ",
+          "description": "オンラインくじ「TVアニメ『みどりのマキバオー』 FaNeMaくじ」が8月25日まで販売！",
+          "url": "https://www.inside-games.jp/article/2026/07/22/184924.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1756608.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-22T03:25:02Z"
+        },
         {
           "title": "CUTIE STREETが語る8人の絆「付き合ってる？みたいな感覚」【インタビュー後編】",
           "description": "8人組アイドルグループ・CUTIE STREETが、8月28日に放送されるテレビアニメ『ポケットモンスター』（テレ東系　午後6：55から）にピカチュウアイドルグループ「キューティーピカピカ」としてゲスト声優として出演する。インタビュー後編…",
@@ -160,14 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1752013.jpg",
           "source": "インサイド",
           "publishedAt": "2026-07-08T08:30:04Z"
-        },
-        {
-          "title": "川崎皇輝、一つひとつの場面で再演を実感「ここに帰ってきたんだな」 2年ぶりの『町田くん』に意気込み「1公演1公演を大切に」",
-          "description": "ジュニアの川崎皇輝（※崎＝たつさき）が主演を務めるミュージカル『町田くんの世界』がきょう7日、東京・シアタークリエで開幕する。同日、公開ゲネプロが行われ、川崎らからの開幕記念コメントが寄せられた。",
-          "url": "https://www.sankei.com/article/20260707-CBGGYRNCGNLQXBTSGV2RTYKVZE/",
-          "image": "https://www.sankei.com/resizer/v2/YHNRDLSJ4RNR7HVDUNTQTKVUW4.jpg?auth=5993bc8e995866aff32e37d5bd006ae4ba2926c9007ce6198f00bb766e7d9cda&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-07T09:01:11Z"
         }
       ]
     },
@@ -205,22 +205,6 @@
           "image": "https://media.loom-app.com/loom/2026/06/23/3b71f5ab-d4eb-47ab-bfa6-179df1f9ab7b/original.jpg?w=1200&h=630",
           "source": "Business Insider Japan",
           "publishedAt": "2026-06-24T08:30:00Z"
-        },
-        {
-          "title": "「技術」だけでは足りない 山田太郎・自民党知財戦略調査会事務局長が語る日本の勝ち筋 知財・無形資産ガバナンス協会 記念講演＜前編＞",
-          "description": "山田太郎参院議員が９日、知財・無形資産の活用を通じて企業価値の向上や日本経済の活性化を目指す一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立１周年式典で記念特別講演に臨んだ。力強い日本を作るには、「成長戦略、知財戦略、国…",
-          "url": "https://www.iza.ne.jp/article/20260622-YRCIWGUQRRANRJLRA6EVYZRJGE/",
-          "image": "https://www.iza.ne.jp/resizer/v2/SZENR3YAXJFXVOIJ5GBC6FFSWM.jpg?auth=2b9418ee14d84f97a266ad05d8113ff6bbf4a45109615da99e98ef16e003501b&quality=50&smart=true&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-06-21T20:30:00Z"
-        },
-        {
-          "title": "「技術」だけでは足りない 山田太郎・自民党知財戦略調査会事務局長が語る日本の勝ち筋",
-          "description": "山田太郎参院議員が９日、知財・無形資産の活用を通じて企業価値の向上や日本経済の活性化を目指す一般社団法人「知財・無形資産ガバナンス協会」（菊地修理事長）の設立１周年式典で記念特別講演に臨んだ。力強い日本を作るには、「成長戦略、知財戦略、国…",
-          "url": "https://www.sankei.com/article/20260622-YRCIWGUQRRANRJLRA6EVYZRJGE/",
-          "image": "https://www.sankei.com/resizer/v2/SZENR3YAXJFXVOIJ5GBC6FFSWM.jpg?auth=2b9418ee14d84f97a266ad05d8113ff6bbf4a45109615da99e98ef16e003501b&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-21T20:30:00Z"
         }
       ]
     }
