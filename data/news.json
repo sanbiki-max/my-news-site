@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T21:00:20.936Z",
+  "updatedAt": "2026-07-23T21:00:20.584Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,22 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "セブンーイレブン加盟店で不正転売横行 ネット上は怒りが充満",
+          "description": "コンビニ最大手、セブンーイレブン・ジャパンの一部加盟店で、アニメやゲームの気キャラクター商品を不正に転売する行為が横行していた疑いが強まり、SNSやネット上には怒りの声が噴出している。外部の人間ではなく、本来なら転売を防ぐ側の内部の人間に…",
+          "url": "https://www.zakzak.co.jp/article/20260723-ZR454GOQUZFUNCDOVDLHXSJNEY/",
+          "image": "https://www.zakzak.co.jp/common/images/v2/basic/zakzak_cover.png",
+          "source": "Yukan Fuji",
+          "publishedAt": "2026-07-23T03:24:55Z"
+        },
+        {
+          "title": "セブンーイレブン加盟店で不正転売横行 ネット上は怒りが充満",
+          "description": "コンビニ最大手、セブンーイレブン・ジャパンの一部加盟店で、アニメやゲームの気キャラクター商品を不正に転売する行為が横行していた疑いが強まり、SNSやネット上には怒りの声が噴出している。外部の人間ではなく、本来なら転売を防ぐ側の内部の人間に…",
+          "url": "https://www.iza.ne.jp/article/20260723-ZR454GOQUZFUNCDOVDLHXSJNEY/",
+          "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
+          "source": "Iza",
+          "publishedAt": "2026-07-23T03:24:55Z"
+        },
+        {
           "title": "「みどりのマキバオー」オンラインくじが販売中！丸出しぬいぐるみほか、いろんな表情をみせるゲーハーアクスタなどラインナップ",
           "description": "オンラインくじ「TVアニメ『みどりのマキバオー』 FaNeMaくじ」が8月25日まで販売！",
           "url": "https://www.inside-games.jp/article/2026/07/22/184924.html",
@@ -152,22 +168,6 @@
           "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-12T05:00:00Z"
-        },
-        {
-          "title": "【コスプレ】北海道・洞爺湖が「コスプレ」に染まる！VTuberから人気ゲームまで抜群のロケーションも必見な美女レイヤー10選【写真45枚】",
-          "description": "6月27、28日開催「TOYAKOマンガ・アニメフェスタ」参加の美麗レイヤーをまとめてお届けします。",
-          "url": "https://www.inside-games.jp/article/2026/07/11/184372.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1752114.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-07-10T23:00:03Z"
-        },
-        {
-          "title": "なぜ「電ファミ」が出展側に？ 奥底には「インディーゲームに還元できていない問題意識」―「電ファミニコゲーマー」ブース担当者にインタビュー！ 100件以上から厳選の「特別推薦枠」や、「第四境界」新作『人のゲームカセット』展示も【BitSummit PUNCH】",
-          "description": "マレが「BitSummit PUNCH」にて「電ファミニコゲーマー」ブースを出展。ゲームメディアである「電ファミ」がなぜ出展に踏み切ったのかなどについてお話を伺いました。",
-          "url": "https://www.inside-games.jp/article/2026/07/08/184229.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1752013.jpg",
-          "source": "インサイド",
-          "publishedAt": "2026-07-08T08:30:04Z"
         }
       ]
     },
