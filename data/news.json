@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:00:20.584Z",
+  "updatedAt": "2026-07-24T21:00:20.362Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』主人公機と敵の設定画が公開！新作アニメ「機動戦士ガンダムRG アレックスゼロ」の約100年後を描く作品に",
+          "description": "『ガンダム ローグオービット』と新作アニメ「機動戦士ガンダムRG アレックスゼロ」が世界観を共有する作品だと明らかに！",
+          "url": "https://www.inside-games.jp/article/2026/07/24/185027.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1757593.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-23T19:39:46Z"
+        },
+        {
           "title": "セブンーイレブン加盟店で不正転売横行 ネット上は怒りが充満",
           "description": "コンビニ最大手、セブンーイレブン・ジャパンの一部加盟店で、アニメやゲームの気キャラクター商品を不正に転売する行為が横行していた疑いが強まり、SNSやネット上には怒りの声が噴出している。外部の人間ではなく、本来なら転売を防ぐ側の内部の人間に…",
           "url": "https://www.zakzak.co.jp/article/20260723-ZR454GOQUZFUNCDOVDLHXSJNEY/",
@@ -160,20 +168,20 @@
           "image": "https://www.sankei.com/resizer/v2/M36MBH7LWFL7DPZQAYCBJGF6UA.jpg?auth=67287be0ea7ee76116c2757f2d53874fad271003bcf42b02545264e504204c37&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-12T12:31:08Z"
-        },
-        {
-          "title": "マイケルとジャクソン5、家族の肖像 質素なバンガローから世界的スターへ駆け上がる",
-          "description": "歴史に残るアイコニックなボーイバンドといえば？ おそらくジャクソン5はその筆頭に挙げられるだろう。インディアナ州ゲーリー出身のジャクソン5は、ジャッキー、ティト、ジャーメイン、マーロン、そしてマイケル・ジャクソンの兄弟からなる5人組。9人…",
-          "url": "https://www.sankei.com/article/20260712-QCTOQA6S3NIIDK2X32O2URABIU/",
-          "image": "https://www.sankei.com/common/images/ogp_default_image.jpg",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-12T05:00:00Z"
         }
       ]
     },
     "business_economy": {
       "name": "ビジネス・経済",
       "articles": [
+        {
+          "title": "鳥貴族、三井住友トラストG……8月に「株式分割」を実施する8銘柄リスト。各社のファンダメンタルズも解説する",
+          "description": "日経平均株価は7月以降、下落し続け、現在は6万円台中盤を推移。それでも、いまだ高水準と言えるため、最低投資金額が50万円を超える銘柄は多いです。そんななか、8月1日に株式分割を実施する8銘柄の特徴について解説していきます。",
+          "url": "https://www.businessinsider.jp/article/2607-list-of-8-stocks-with-a-stock-split-around-august-1/",
+          "image": "https://media.loom-app.com/loom/2026/07/23/7a740553-4a8d-4d69-9b57-5befd40049ba/original.jpg?w=1200&h=630",
+          "source": "Business Insider Japan",
+          "publishedAt": "2026-07-24T08:30:00Z"
+        },
         {
           "title": "独紳士服ブランド、ヒューゴ・ボスが筆頭株主による買収提案に「NO」。そのスーツ、値札の付け間違いじゃないか？",
           "description": "ドイツの高級ファッションブランド、ヒューゴ・ボスは、筆頭株主のフレイザーズによる1株約7030円の買収提案を「安すぎる」として拒否を推奨した。ドイツの法的最低価格に基づくこの提案は、フレイザーズが保有比率を30％超に引き上げ、影響力を強める狙いがあるとみられる。経営陣は再建計画による価値向上を訴えるが、消費冷え込みや中国市場の低迷が続く中、株主がこの「現実的な現金」を前にどこまで耐えられるかが焦点だ。",
