@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:00:20.362Z",
+  "updatedAt": "2026-07-25T21:00:18.993Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -75,14 +75,6 @@
           "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3218278025062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.42&fp-y=0.89&h=630&w=1200&s=d156f8301ffb12926feb83237bd8f3d3",
           "source": "Nihon Keizai Shimbun",
           "publishedAt": "2026-06-26T23:00:00Z"
-        },
-        {
-          "title": "過去最高実績のマウスコンピューター、エヌビディアと描く“ローカルAI”時代とは？「生き残り」かけた戦略を明かす",
-          "description": "マウスコンピューターは23日、メディアおよびパートナー企業を対象としたカンファレンス『Mouse Communication Partner Conference』を開催。急速に拡大する人工知能への需要対応や、今後の成長に向けた新たな戦略…",
-          "url": "https://www.sankei.com/article/20260624-4FEVPGM4KRISJBEQABHDUSZ4Y4/",
-          "image": "https://www.sankei.com/resizer/v2/3D2VLVB7FRPNJM4G5TUHH63LEM.jpg?auth=dca8b7af3b4c553f454be15a99754dd3d8ed4d8cda7e242c8eaf82240975edb0&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-06-24T09:31:08Z"
         }
       ]
     },
@@ -205,14 +197,6 @@
           "image": "https://www.iza.ne.jp/resizer/v2/XCS732VUDNOLTPWMYTNHVVBBQI.jpg?auth=b2c1ae98646b8f8eb2b33ab4ac9a2d11208cf194d5879e443d87173644a1fc13&quality=50&smart=true&width=1200&height=675",
           "source": "Iza",
           "publishedAt": "2026-06-25T07:52:54Z"
-        },
-        {
-          "title": "古河電工、住友電工、花王……7月1日前後に“株式分割”する全34銘柄リスト。それぞれのファンダメンタルズも解説する",
-          "description": "AI・半導体関連株が牽引し、日経平均株価はついに7万円を突破しました。そんななか7月上旬、34銘柄が株式を分割します。今回はAI関連で高騰した銘柄が目立ちます。それらのリストと、そのなかで筆者が注目する8銘柄のファンダメンタルズを解説。",
-          "url": "https://www.businessinsider.jp/article/2606-list-of-34-stocks-with-a-stock-split-around-july-1/",
-          "image": "https://media.loom-app.com/loom/2026/06/23/3b71f5ab-d4eb-47ab-bfa6-179df1f9ab7b/original.jpg?w=1200&h=630",
-          "source": "Business Insider Japan",
-          "publishedAt": "2026-06-24T08:30:00Z"
         }
       ]
     }
