@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:00:18.993Z",
+  "updatedAt": "2026-07-26T21:00:20.604Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -82,6 +82,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "「みどりのマキバオー」オンラインくじに注目！丸出しぬいぐるみほか、いろんな表情をみせるゲーハーアクスタなど",
+          "description": "オンラインくじ「TVアニメ『みどりのマキバオー』 FaNeMaくじ」が8月25日まで販売！",
+          "url": "https://www.inside-games.jp/article/2026/07/26/185190.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1756608.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-26T07:15:03Z"
+        },
+        {
           "title": "ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』主人公機と敵の設定画が公開！新作アニメ「機動戦士ガンダムRG アレックスゼロ」の約100年後を描く作品に",
           "description": "『ガンダム ローグオービット』と新作アニメ「機動戦士ガンダムRG アレックスゼロ」が世界観を共有する作品だと明らかに！",
           "url": "https://www.inside-games.jp/article/2026/07/24/185027.html",
@@ -152,14 +160,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1747819.png",
           "source": "インサイド",
           "publishedAt": "2026-07-14T03:25:03Z"
-        },
-        {
-          "title": "モンスト『呪術廻戦』第3弾 ガチャ内容発表で虎杖悠仁、七海建人、五条悟コラボキャラ初の真獣神化",
-          "description": "スマートフォン向けゲーム『モンスターストライク』（モンスト）は、アニメ『呪術廻戦』とのコラボ第3弾を14日正午より開始することを発表した。コラボで初めて、モンストWebショップでコラボガチャを先行販売。「乙骨憂太」「脹相」「禪院真希」など…",
-          "url": "https://www.sankei.com/article/20260712-4CLGOWVPEFISDFPZPAEFMBYTKI/",
-          "image": "https://www.sankei.com/resizer/v2/M36MBH7LWFL7DPZQAYCBJGF6UA.jpg?auth=67287be0ea7ee76116c2757f2d53874fad271003bcf42b02545264e504204c37&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-12T12:31:08Z"
         }
       ]
     },
@@ -181,22 +181,6 @@
           "image": "https://media.loom-app.com/loom/2026/07/10/77bc1c49-ac8e-4895-89e9-638efee52075/original.jpg?w=1200&h=630",
           "source": "Business Insider Japan",
           "publishedAt": "2026-07-12T21:30:00Z"
-        },
-        {
-          "title": "株価7万2000円の残酷。年収300万層が「絶対的貧困」を防ぐ最終サバイバル（1/2ページ）",
-          "description": "2026年6月、日経平均株価がついに史上初の「7万円」の大台を突破し、7万2000円台へと突入した。AI・半導体関連銘柄が牽引する空前の株高に市場は沸き立っている。だが、ニュースで躍る「歴史的最高値」という言葉の恩恵を実感できている人間が…",
-          "url": "https://www.zakzak.co.jp/article/20260625-4FEFV6J4MZAUNLVUGDBEXNLVEY/",
-          "image": "https://www.zakzak.co.jp/resizer/v2/XCS732VUDNOLTPWMYTNHVVBBQI.jpg?auth=b2c1ae98646b8f8eb2b33ab4ac9a2d11208cf194d5879e443d87173644a1fc13&quality=50&smart=true&width=1200&height=675",
-          "source": "Yukan Fuji",
-          "publishedAt": "2026-06-25T07:52:54Z"
-        },
-        {
-          "title": "株価7万2000円の残酷。年収300万層が「絶対的貧困」を防ぐ最終サバイバル（1/2ページ）",
-          "description": "2026年6月、日経平均株価がついに史上初の「7万円」の大台を突破し、7万2000円台へと突入した。AI・半導体関連銘柄が牽引する空前の株高に市場は沸き立っている。だが、ニュースで躍る「歴史的最高値」という言葉の恩恵を実感できている人間が…",
-          "url": "https://www.iza.ne.jp/article/20260625-4FEFV6J4MZAUNLVUGDBEXNLVEY/",
-          "image": "https://www.iza.ne.jp/resizer/v2/XCS732VUDNOLTPWMYTNHVVBBQI.jpg?auth=b2c1ae98646b8f8eb2b33ab4ac9a2d11208cf194d5879e443d87173644a1fc13&quality=50&smart=true&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-06-25T07:52:54Z"
         }
       ]
     }
