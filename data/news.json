@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-07-26T21:00:20.604Z",
+  "updatedAt": "2026-07-27T21:00:18.681Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
+        {
+          "title": "Z世代が「次の流行」を予測 「AIイラスト」「伊能忠敬界隈」「日本三國」…上位は多彩",
+          "description": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。生成AI（人工知能）に作成させた画像「AIイラスト」や、テレビアニメ化さ…",
+          "url": "https://www.iza.ne.jp/article/20260727-IRROK5H2FFA4VIXW2JYZ6XWJJU/",
+          "image": "https://www.iza.ne.jp/resizer/v2/DW2MXMQJEZPXBIARQHQWUE4RDI.jpg?auth=b0fe7a19311de20449045d6ff0dd0972338f5adc2f37850e6975f528980d5f3b&quality=50&focal=1777%2C926&width=1200&height=675",
+          "source": "Iza",
+          "publishedAt": "2026-07-27T05:54:26Z"
+        },
+        {
+          "title": "Z世代が「次の流行」を予測 「AIイラスト」「伊能忠敬界隈」「日本三國」…上位は多彩",
+          "description": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。生成AI（人工知能）に作成させた画像「AIイラスト」や、テレビアニメ化さ…",
+          "url": "https://www.sankei.com/article/20260727-IRROK5H2FFA4VIXW2JYZ6XWJJU/",
+          "image": "https://www.sankei.com/resizer/v2/DW2MXMQJEZPXBIARQHQWUE4RDI.jpg?auth=b0fe7a19311de20449045d6ff0dd0972338f5adc2f37850e6975f528980d5f3b&quality=50&focal=1777%2C926&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-27T05:54:26Z"
+        },
         {
           "title": "マグニフィセント・セブン時代はもう終わり…シティが新たな勝ち組銘柄群「グロース・クラスター」を提唱",
           "description": "米金融大手シティは、マグニフィセント・セブンより、自行が提唱する「グロース・クラスター」のほうが、高い潜在成長力と、AI（人工知能）の追い風を直接受ける銘柄群だと強調しています。",
@@ -67,20 +83,20 @@
           "image": "https://media.loom-app.com/loom/2026/06/26/f16a136d-d4fe-4442-9484-87eb9cd9a770/original.jpg?w=1200&h=630",
           "source": "ギズモード・ジャパン",
           "publishedAt": "2026-06-27T13:30:00Z"
-        },
-        {
-          "title": "フィジカルAIの最前線 ハノーバーメッセ26まとめ読み",
-          "description": "世界最大級の産業見本市「HANNOVER MESSE 2026（ハノーバーメッセ）」（2026年4月20〜24日、以下HM26）を2人の専門記者が取材しました。話題の中心はフィジカルAI（人工知能）。AIが現実世界に飛び出すと何が起こるのか。HM26で目立ったのが人型ロボット（ヒューマノイド）です。さらに、AIエージェントが制御する「自律的な工場」を目指す動きも本格化してきました。NIKKEI",
-          "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC251MJ0V20C26A6000000",
-          "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3218278025062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.42&fp-y=0.89&h=630&w=1200&s=d156f8301ffb12926feb83237bd8f3d3",
-          "source": "Nihon Keizai Shimbun",
-          "publishedAt": "2026-06-26T23:00:00Z"
         }
       ]
     },
     "game_entertainment": {
       "name": "ゲーム・エンタメ",
       "articles": [
+        {
+          "title": "味仙、矢場とん…名古屋ローカルチェーン“売上1位メニュー”を予想 タカトシ、なにわ男子・西畑大吾も大苦戦",
+          "description": "テレビ朝日系で27日放送される『帰れマンデー見っけ隊!!＆サンド＆キスマイの気になるマン 2本立て3時間SP』内の『帰れマンデー見っけ隊!!』（後7：00）では、タカアンドトシがゲストと一緒に飲食店の人気メニューを当てる「帰れま10」特別…",
+          "url": "https://www.sankei.com/article/20260727-3GG4A4M7TFIITCLVX7UUW7Y3EQ/",
+          "image": "https://www.sankei.com/resizer/v2/YWFE6D5WDNI7HBPOAH6TPZHUWQ.jpg?auth=d894857499592d5f941fe2247c235eb73b6676d3a764e0011ce1085713f1cbf4&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-26T23:01:09Z"
+        },
         {
           "title": "「みどりのマキバオー」オンラインくじに注目！丸出しぬいぐるみほか、いろんな表情をみせるゲーハーアクスタなど",
           "description": "オンラインくじ「TVアニメ『みどりのマキバオー』 FaNeMaくじ」が8月25日まで販売！",
@@ -152,14 +168,6 @@
           "image": "https://www.sankei.com/resizer/v2/UFOZBXY7OFN6LPRQNIZLG7Y5CI.jpg?auth=db50461589a347e41d4d2b6d61d4a9ed06c546e4e4443f60143236f5ecd0dbea&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-16T12:01:08Z"
-        },
-        {
-          "title": "『シュタゲ』リアル脱出ゲームで白上フブキと星街すいせいがタイムリープ！『STEINS;GATE RE:BOOT』リリース前に再認識した「シュタゲすげえ！」【白上フブキ／星街すいせい／大空スバル／兎田ぺこら】",
-          "description": "リアル脱出ゲームとテレビアニメ同時視聴でホロライブのタレントたちはどんな感想を口にしたのか!?",
-          "url": "https://www.inside-games.jp/article/2026/07/14/184492.html",
-          "image": "https://www.inside-games.jp/imgs/ogp_f/1747819.png",
-          "source": "インサイド",
-          "publishedAt": "2026-07-14T03:25:03Z"
         }
       ]
     },
