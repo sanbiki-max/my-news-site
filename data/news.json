@@ -1,17 +1,9 @@
 {
-  "updatedAt": "2026-07-27T21:00:18.681Z",
+  "updatedAt": "2026-07-28T21:00:23.278Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
       "articles": [
-        {
-          "title": "Z世代が「次の流行」を予測 「AIイラスト」「伊能忠敬界隈」「日本三國」…上位は多彩",
-          "description": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。生成AI（人工知能）に作成させた画像「AIイラスト」や、テレビアニメ化さ…",
-          "url": "https://www.iza.ne.jp/article/20260727-IRROK5H2FFA4VIXW2JYZ6XWJJU/",
-          "image": "https://www.iza.ne.jp/resizer/v2/DW2MXMQJEZPXBIARQHQWUE4RDI.jpg?auth=b0fe7a19311de20449045d6ff0dd0972338f5adc2f37850e6975f528980d5f3b&quality=50&focal=1777%2C926&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-07-27T05:54:26Z"
-        },
         {
           "title": "Z世代が「次の流行」を予測 「AIイラスト」「伊能忠敬界隈」「日本三國」…上位は多彩",
           "description": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。生成AI（人工知能）に作成させた画像「AIイラスト」や、テレビアニメ化さ…",
@@ -21,68 +13,12 @@
           "publishedAt": "2026-07-27T05:54:26Z"
         },
         {
-          "title": "マグニフィセント・セブン時代はもう終わり…シティが新たな勝ち組銘柄群「グロース・クラスター」を提唱",
-          "description": "米金融大手シティは、マグニフィセント・セブンより、自行が提唱する「グロース・クラスター」のほうが、高い潜在成長力と、AI（人工知能）の追い風を直接受ける銘柄群だと強調しています。",
-          "url": "https://www.businessinsider.jp/article/2607-growth-stocks-investment-strategy-sp500-magnificent-7-ai-citi/",
-          "image": "https://media.loom-app.com/loom/2026/07/20/86ebc85c-94af-4543-8082-145cb340bfdb/original.jpg?w=1200&h=630",
-          "source": "Business Insider Japan",
-          "publishedAt": "2026-07-21T13:00:00Z"
-        },
-        {
-          "title": "ハイブリッド戦、宇宙・サイバー・電磁波…これが「新しい戦い方」だ 高市政権が進める「有事兵器」の戦慄",
-          "description": "戦争の様相が様変わりしている。日本も無関係ではない。安全保障政策として掲げた柱が「新しい戦い方」だ。その中身は、AI（人工知能）を用いた「有事兵器」である。宇宙・サイバー、無人機ドローンなどアップデートがなされている。その戦慄の実態とは―。（森健/サンデー毎日7月26・日8月2日合併号掲載）",
-          "url": "https://mainichi.jp/sunday/articles/20260713/org/00m/010/016000c",
-          "image": "https://cdn.mainichi.jp/vol1/2026/07/13/20260713org00m010011000p/0c10.jpg?1",
-          "source": "毎日新聞",
-          "publishedAt": "2026-07-19T07:00:00Z"
-        },
-        {
-          "title": "医療専門家のAIボットにアドバイスをもらう時代 人間相手よりも費用は安いが課題も",
-          "description": "スタートアップOnixは、医療専門家の分身AIが、24時間365日休むことなく医学的助言を提供するサービスをローンチする。いずれはフィナンシャル系にも拡げる計画だという。 人工知能（AI）が世界中の知識を吸い込み、人間のように話せるよう…",
-          "url": "https://www.sankei.com/article/20260717-VKDIJDBHDRIGHLR5EL37GCK7XM/",
-          "image": "https://www.sankei.com/resizer/v2/VH4XSW5A6NKB3IS3BBGCYVFHNM.jpg?auth=89aa22572da493f9b131d8de4b23174d9d928e00e007d3444cbddd9a41b37bd3&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-17T06:30:00Z"
-        },
-        {
-          "title": "批判殺到。他人のインスタ画像を無断でAI合成できる機能、3日で停止",
-          "description": "サービス停止最速説まである。Meta（メタ）が発表した新しいAI（人工知能）機能が、プライバシーの問題などから批判を呼び、導入からわずか3日で停止となりました。停止したのは、Instagram（インスタグラム）の投稿画像を、他人が勝手にAI",
-          "url": "https://www.gizmodo.jp/article/the-public-got-so-mad-at-metas-new-ai-photo-tool-that-its-scrapped-already/",
-          "image": "https://media.loom-app.com/loom/2026/07/13/8eee0a15-8f78-4f44-8cff-6b6ad595b80f/original.jpg?w=1200&h=630",
-          "source": "ギズモード・ジャパン",
-          "publishedAt": "2026-07-14T01:00:00Z"
-        },
-        {
           "title": "ウォール街の19社中18社がスペースXを「買い」礼賛。ただ1社「中立」表明したアナリストに真意を聞いた",
           "description": "記録的な相場をけん引してきたAIトレードの「変調」が明確になったことで、株式市場全体の先行きに不透明感が出てくる展開は避けられないでしょう。そして、そうした変化が特に大きく影響してきそうなのが、史上最大規模の新規株式公開（IPO）を果たしたばかりの人工知能・宇宙開発企業スペースX（SpaceX）の株価動向です。",
           "url": "https://www.businessinsider.jp/article/cutting-edge-20260710-spacex-stock-outlook-interview-moffettnathanson-analyst-neutral-share-rating-explanation/",
           "image": "https://media.loom-app.com/loom/2026/07/10/2c2f8ca1-362d-4e3e-9f7e-932678865a60/original.jpg?w=1200&h=630",
           "source": "Business Insider Japan",
           "publishedAt": "2026-07-10T02:20:00Z"
-        },
-        {
-          "title": "「万能」の対話相手AIにどこまで頼るか 日本語教育のプロに聞くタイパ時代の文章作成術 伝える作法 国立国語研究所教授の石黒圭さん",
-          "description": "長文の要約も作成も短時間でこなす生成AI（人工知能）に、どこまで頼るか－。作業効率の向上などが期待できる一方、AI偏重に陥れば、利用者個人の思考力減退、ひいてはオリジナリティーの喪失につながりかねない。「批判的な思考に基づく対話と試行錯誤…",
-          "url": "https://www.iza.ne.jp/article/20260709-T5NSJVV4TFN3VONUYRLUW3MT7I/",
-          "image": "https://www.iza.ne.jp/resizer/v2/TGUUX7CU4NL6RHFJL2PD6HIT7E.jpg?auth=27350b45344668d55ee8377ba4bcd709170cedeea4d65c54d31536a194d06e71&quality=50&focal=2290%2C1206&width=1200&height=675",
-          "source": "Iza",
-          "publishedAt": "2026-07-09T02:30:00Z"
-        },
-        {
-          "title": "「万能」の対話相手AIにどこまで頼るか 日本語教育のプロに聞くタイパ時代の文章作成術",
-          "description": "長文の要約も作成も短時間でこなす生成AI（人工知能）に、どこまで頼るか－。作業効率の向上などが期待できる一方、AI偏重に陥れば、利用者個人の思考力減退、ひいてはオリジナリティーの喪失につながりかねない。「批判的な思考に基づく対話と試行錯誤…",
-          "url": "https://www.sankei.com/article/20260709-T5NSJVV4TFN3VONUYRLUW3MT7I/",
-          "image": "https://www.sankei.com/resizer/v2/TGUUX7CU4NL6RHFJL2PD6HIT7E.jpg?auth=27350b45344668d55ee8377ba4bcd709170cedeea4d65c54d31536a194d06e71&quality=50&focal=2290%2C1206&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-09T02:30:00Z"
-        },
-        {
-          "title": "映画『her』の監督「正直気まずい」。AIチャットボットの設計に警鐘",
-          "description": "今まさに現実となったあの映画の世界。2013年のスパイク・ジョーンズ監督作品『her/世界でひとつの彼女』では、深い孤独を抱えてだんだんと内にこもっていく男性が、音声で会話するAI（人工知能）のオペレーティングシステムに少しずつ恋をしていく",
-          "url": "https://www.gizmodo.jp/article/spike-jonze-filmmaker-behind-her-warns-of-manipulative-ai-chatbot-design/",
-          "image": "https://media.loom-app.com/loom/2026/06/26/f16a136d-d4fe-4442-9484-87eb9cd9a770/original.jpg?w=1200&h=630",
-          "source": "ギズモード・ジャパン",
-          "publishedAt": "2026-06-27T13:30:00Z"
         }
       ]
     },
@@ -174,6 +110,14 @@
     "business_economy": {
       "name": "ビジネス・経済",
       "articles": [
+        {
+          "title": "アイルランドの海運グループ、ICGが上場廃止へ。四半期ごとの「採点」に疲れた経営陣、12億ユーロで自ら買い取る",
+          "description": "アイルランドの海運グループICGの経営陣は、燃料価格の変動や季節性に振り回される公開市場の評価に嫌気が差し、約2220億円での経営陣による買収での上場廃止を決めた。長年CEOを務めるロスウェル氏は、四半期ごとの成績評価から離れ、長期的な視点で船隊投資などを行う「静かな港」を求めている。1株約1480円の現金提案は、将来の成長性と確実な出口のどちらを選ぶか、株主に究極の選択を迫っている。",
+          "url": "https://www.businessinsider.jp/article/2607-news-irish-ferries-gets-taken-off-the-public-market/",
+          "image": "https://media.loom-app.com/loom/2026/07/28/9a76ac80-2044-4a26-87f0-7906d1814214/original.jpg?w=1200&h=630",
+          "source": "Business Insider Japan",
+          "publishedAt": "2026-07-28T08:15:00Z"
+        },
         {
           "title": "鳥貴族、三井住友トラストG……8月に「株式分割」を実施する8銘柄リスト。各社のファンダメンタルズも解説する",
           "description": "日経平均株価は7月以降、下落し続け、現在は6万円台中盤を推移。それでも、いまだ高水準と言えるため、最低投資金額が50万円を超える銘柄は多いです。そんななか、8月1日に株式分割を実施する8銘柄の特徴について解説していきます。",
