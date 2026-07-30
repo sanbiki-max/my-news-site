@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:00:17.872Z",
+  "updatedAt": "2026-07-30T21:00:18.160Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -82,6 +82,22 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "「遊戯王ZEXAL」真月零ことベクターの裏切りシーンが公式ショート動画化―まさかの合法真ゲス",
+          "description": "アニメ「遊☆戯☆王ZEXAL」で真月零（ベクター）の裏切るシーンが、公式ショート動画となって公開！可笑しくって腹痛いわぁ。",
+          "url": "https://www.inside-games.jp/article/2026/07/30/185395.html",
+          "image": "https://www.inside-games.jp/imgs/ogp_f/1760811.jpg",
+          "source": "インサイド",
+          "publishedAt": "2026-07-30T03:00:04Z"
+        },
+        {
+          "title": "『テニスの王子様』恋愛アドベンチャーゲーム発売 攻略キャラ『学プリ』38人、『ドキサバ』44人",
+          "description": "コナミデジタルエンタテインメントは30日、漫画『テニスの王子様』の恋愛アドベンチャーゲーム『テニスの王子様 も～っと 学園祭の王子様 (ハート)-40 and more...』（以下、『学プリ』）と『テニスの王子様 ぎゅ～っと！ ドキドキ…",
+          "url": "https://www.sankei.com/article/20260730-E5BOBPFP2RPBRNLQ55BM5I2GWE/",
+          "image": "https://www.sankei.com/resizer/v2/JHPYEHNLPFOUVFSDZBNK4PCP5Y.jpg?auth=6d59819c7f85a37843e41def2e64f970208282dee3e5b5d0e08b1ccecde0db5d&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-07-30T02:01:10Z"
+        },
+        {
           "title": "味仙、矢場とん…名古屋ローカルチェーン“売上1位メニュー”を予想 タカトシ、なにわ男子・西畑大吾も大苦戦",
           "description": "テレビ朝日系で27日放送される『帰れマンデー見っけ隊!!＆サンド＆キスマイの気になるマン 2本立て3時間SP』内の『帰れマンデー見っけ隊!!』（後7：00）では、タカアンドトシがゲストと一緒に飲食店の人気メニューを当てる「帰れま10」特別…",
           "url": "https://www.sankei.com/article/20260727-3GG4A4M7TFIITCLVX7UUW7Y3EQ/",
@@ -144,22 +160,6 @@
           "image": "https://www.sankei.com/resizer/v2/NZUGRFXXANLZ3IQSU7LD6MODPQ.jpg?auth=4711753b6d2e4a9c0961c172919001101c10ca1c309f3483fb702b7972fff43c&quality=50&smart=true&width=1200&height=675",
           "source": "Sankei Shimbun",
           "publishedAt": "2026-07-17T11:31:11Z"
-        },
-        {
-          "title": "CUTIE STREET『ポケモン』ゲスト声優出演で喜び ピカチュウ8匹のアイドルグループ「キューティーピカピカ役」",
-          "description": "人気アイドルグループのCUTIE STREETが、8月28日放送のテレビアニメ『ポケットモンスター』（公式略称：アニポケ　テレビ東京系 毎週金曜 後6：55～）第147話にゲスト声優出演することが決定した。第147話では、8匹のピカチュウ…",
-          "url": "https://www.sankei.com/article/20260717-YNCAGP4PNNKCLLH4YHKKLGO354/",
-          "image": "https://www.sankei.com/resizer/v2/TVBFMQNUOFLCXF2P4VWIJQ5PBE.jpg?auth=1624fa8a85f63001eee90ea1d4b2af0d81c7171aa269cf614ebf76a3825ccc56&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-17T11:31:10Z"
-        },
-        {
-          "title": "ラウンドワン『ONE PIECE』企画で注意喚起！カード配布のルール変更で謝罪 転売行為＆SNSのデマ情報に警告",
-          "description": "ラウンドワンは16日、18日からスタートするアニメ『ONE PIECE』とのコラボレーション企画について、ノベルティの「ONE PIECE カードゲーム」の配布方法および配布ルールを変更することを発表した。また、ノベルティの転売行為やSN…",
-          "url": "https://www.sankei.com/article/20260716-2TQMOGQLU5NVXMITKUMWNI4LEM/",
-          "image": "https://www.sankei.com/resizer/v2/UFOZBXY7OFN6LPRQNIZLG7Y5CI.jpg?auth=db50461589a347e41d4d2b6d61d4a9ed06c546e4e4443f60143236f5ecd0dbea&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-16T12:01:08Z"
         }
       ]
     },
