@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:00:15.715Z",
+  "updatedAt": "2026-08-06T21:00:19.019Z",
   "themes": {
     "ai_tech": {
       "name": "AI・テクノロジー",
@@ -90,6 +90,14 @@
       "name": "ゲーム・エンタメ",
       "articles": [
         {
+          "title": "『遊戯王 マスターデュエル』累計1億DL突破 記念企画発表！セレクションパック・シークレットパック登場",
+          "description": "コナミデジタルエンタテインメントは5日、遊戯王OCG・TCGが遊べるデジタルカードゲーム『遊戯王 マスターデュエル』が累計1億ダウンロードを突破したことを発表した。これを記念して、ログインボーナスや、「F・HERO シャイニング・フレア・…",
+          "url": "https://www.sankei.com/article/20260805-AGWC6QVGZ5LWFNEKOMCCMLLIHU/",
+          "image": "https://www.sankei.com/resizer/v2/MHN7W4J5Z5LDNNVTKI4F7IP43M.jpg?auth=89869cf9d5b6c4d3a50ae5f8cba3fb4c4c7d60cc6f5d1e3805bd444040d12560&quality=50&smart=true&width=1200&height=675",
+          "source": "Sankei Shimbun",
+          "publishedAt": "2026-08-05T10:31:08Z"
+        },
+        {
           "title": "グローバル化が課題の「邦楽」、日本が誇るIPとの融合で世界へ 『ガンダム』『たまごっち』による新たな“ライブ体験”構想とは？",
           "description": "数々の伝説的な来日公演を手掛けてきた老舗プロモーター・ウドー音楽事務所と、世界的人気の多数のIPをゲーム、アニメ、玩具などの商品・サービスとして展開するバンダイナムコグループ。一見、異なるフィールドを歩んできたように見える両社が、戦略的パ…",
           "url": "https://www.sankei.com/article/20260731-DVIB45B3FRNBVEKY5G6ISVMMJY/",
@@ -160,14 +168,6 @@
           "image": "https://www.inside-games.jp/imgs/ogp_f/1756608.jpg",
           "source": "インサイド",
           "publishedAt": "2026-07-22T03:25:02Z"
-        },
-        {
-          "title": "CUTIE STREETが語る8人の絆「付き合ってる？みたいな感覚」【インタビュー後編】",
-          "description": "8人組アイドルグループ・CUTIE STREETが、8月28日に放送されるテレビアニメ『ポケットモンスター』（テレ東系　午後6：55から）にピカチュウアイドルグループ「キューティーピカピカ」としてゲスト声優として出演する。インタビュー後編…",
-          "url": "https://www.sankei.com/article/20260717-HGBZOVWDNNIU3G5GAQIY4XDETU/",
-          "image": "https://www.sankei.com/resizer/v2/ZE33ME7M5ZOJ7PNDJ7YYPEYLUQ.jpg?auth=32cc208a7b91c56373c3002675d1e6d50978329ecfa7d5135ca4893dfcecbdd0&quality=50&smart=true&width=1200&height=675",
-          "source": "Sankei Shimbun",
-          "publishedAt": "2026-07-17T11:31:12Z"
         }
       ]
     },
